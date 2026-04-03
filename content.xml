@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260403172913T432KM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604031729130GC3P6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡A toda presión!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775228909170</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡A toda presión! Diseñando soluciones neumáticas e hidráulicas para el mundo real. Principios, elementos, circuitos y aplicaciones.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡A toda presión! Diseñando soluciones neumáticas e hidráulicas para el mundo real. Principios, elementos, circuitos y aplicaciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Operación rescate ¿Qué le pasa a mi ordenador? Dispositivos digitales: componentes, características y resolución de problemas de manera guiada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡A toda presión! Diseñando soluciones neumáticas e hidráulicas para el mundo real. Principios, elementos, circuitos y aplicaciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351XSLXPI</odeBlockId>
+      <blockName>ETAPA/CURSO/MATERIA A QUIÉN VA DIRIGIDA LA SITUACIÓN DE APRENDIZAJE.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351XSLXPI</odeBlockId>
+          <odeIdeviceId>20251110173849421Q9P</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está dirigida al alumnado de 4º de la ESO y se desarrollará en la materia de Tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110173849421Q9P","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje está dirigida al alumnado de 4º de la ESO y se desarrollará en la materia de Tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351BZUFVR</odeBlockId>
+      <blockName>MATERIAS IMPLICADAS.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351BZUFVR</odeBlockId>
+          <odeIdeviceId>20251110174902079VNW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje se plantea desde la materia de Tecnología (4º ESO), pero por su carácter interdisciplinar permite la colaboración o conexión con otras áreas del currículo.</p>
+<p><strong>Materias complementarias o vinculadas (interdisciplinariedad):</strong></p>
+<p><strong>Matemáticas</strong><br /></p>
+<p>•     Magnitudes y unidades: presión (Pa, bar, atm, kp/cm²), fuerza (N, kp), caudal (m³/s, L/s) y sus conversiones.</p>
+<p>•     Proporcionalidad y razón: relación entre superficie del émbolo y fuerza en la prensa hidráulica (F₁/S₁ = F₂/S₂).</p>
+<p>•     Geometría: cálculo de superficies circulares (sección del émbolo: S = π·r²) en los problemas de cilindros.</p>
+<p>•     Álgebra: despeje de variables en las fórmulas de presión, Boyle-Mariotte (P₁·V₁ = P₂·V₂) y potencia.</p>
+<p><strong>Física y Química</strong></p>
+<p>•     Mecánica de fluidos: presión hidrostática, principio de Pascal y sus aplicaciones (prensa hidráulica, frenos).</p>
+<p>•     Termodinámica básica: ley de Boyle-Mariotte como caso particular de transformaciones isotérmicas de gases ideales.</p>
+<p>•     Trabajo, energía y potencia: los cálculos de trabajo (W = P·ΔV) y potencia hidráulica son contenido compartido.</p>
+<p>•     Propiedades de la materia: viscosidad, compresibilidad y diferencias entre gases y líquidos aplicadas al contexto neumático/hidráulico.</p>
+<p><strong>Biología y Geología</strong></p>
+<p>•     Método científico: el diagnóstico de averías en sistemas neumáticos sigue el mismo proceso que en Biología (observación → hipótesis → experimentación → conclusión).</p>
+<p>•     Recursos naturales y minería: los aceites hidráulicos derivan del petróleo; los sellos y juntas de los cilindros usan polímeros cuya extracción impacta en ecosistemas.</p>
+<p>•     Economía circular y residuos: el aceite hidráulico usado es un residuo peligroso que debe gestionarse correctamente, enlazando con el ciclo de vida de los fluidos industriales.</p>
+<p>•     Contaminación ambiental: los vertidos de aceite hidráulico en suelo o agua son uno de los principales contaminantes industriales; análisis de impacto en ecosistemas.</p>
+<p><strong>Inglés</strong><br /></p>
+<p>•     Vocabulario técnico universal: la terminología normalizada de neumática e hidráulica es mayoritariamente en inglés o de origen latino/griego internacionalizado: cylinder, piston, valve, pressure, flow, actuator, solenoid, check valve, throttle.</p>
+<p>•     Comprensión de documentación técnica: los manuales de componentes neumáticos (Festo, Parker, SMC) están redactados en inglés; el alumnado aprende a leer fichas técnicas y datasheets reales.</p>
+<p>•     Recursos audiovisuales: los tutoriales de FluidSim y los vídeos sobre automatización industrial más completos se encuentran en inglés en YouTube y otras plataformas.</p>
+<p>•     Normas internacionales: la simbología ISO es un lenguaje técnico universal; comprender su origen y nomenclatura en inglés facilita la búsqueda de información y la colaboración internacional.</p>
+<p><strong>Geografía e Historia</strong><br /></p>
+<p>•     Geografía económica: las cadenas de suministro de componentes neumáticos (Festo — Alemania, SMC — Japón, Parker — EE. UU.) ilustran la globalización industrial y la interdependencia económica entre países.</p>
+<p>•     Historia de la tecnología: los orígenes de la neumática en Mesopotamia y Babilonia (fuelles, obras de riego) y su evolución hasta la automatización industrial del siglo XX conectan con los contenidos de historia de la técnica.</p>
+<p>•     Revolución Industrial: la automatización neumática e hidráulica es hija directa de la mecanización del siglo XIX; el alumnado puede analizar su impacto en la organización del trabajo y las condiciones laborales.</p>
+<p>•     Desigualdad y desarrollo: los países productores de petróleo (para aceites hidráulicos) y sus relaciones geopolíticas son un hilo conductor para analizar la desigualdad en el acceso a la tecnología industrial.</p>
+<p>•     Impacto social de la automatización: la sustitución de tareas manuales por sistemas neumáticos en fábricas plantea preguntas sobre el futuro del trabajo que conectan con la actualidad geopolítica y social.</p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110174902079VNW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje se plantea desde la materia de Tecnología (4º ESO), pero por su carácter interdisciplinar permite la colaboración o conexión con otras áreas del currículo.</p>\n<p><strong>Materias complementarias o vinculadas (interdisciplinariedad):</strong></p>\n<p><strong>Matemáticas</strong><br /></p>\n<p>•     Magnitudes y unidades: presión (Pa, bar, atm, kp/cm²), fuerza (N, kp), caudal (m³/s, L/s) y sus conversiones.</p>\n<p>•     Proporcionalidad y razón: relación entre superficie del émbolo y fuerza en la prensa hidráulica (F₁/S₁ = F₂/S₂).</p>\n<p>•     Geometría: cálculo de superficies circulares (sección del émbolo: S = π·r²) en los problemas de cilindros.</p>\n<p>•     Álgebra: despeje de variables en las fórmulas de presión, Boyle-Mariotte (P₁·V₁ = P₂·V₂) y potencia.</p>\n<p><strong>Física y Química</strong></p>\n<p>•     Mecánica de fluidos: presión hidrostática, principio de Pascal y sus aplicaciones (prensa hidráulica, frenos).</p>\n<p>•     Termodinámica básica: ley de Boyle-Mariotte como caso particular de transformaciones isotérmicas de gases ideales.</p>\n<p>•     Trabajo, energía y potencia: los cálculos de trabajo (W = P·ΔV) y potencia hidráulica son contenido compartido.</p>\n<p>•     Propiedades de la materia: viscosidad, compresibilidad y diferencias entre gases y líquidos aplicadas al contexto neumático/hidráulico.</p>\n<p><strong>Biología y Geología</strong></p>\n<p>•     Método científico: el diagnóstico de averías en sistemas neumáticos sigue el mismo proceso que en Biología (observación → hipótesis → experimentación → conclusión).</p>\n<p>•     Recursos naturales y minería: los aceites hidráulicos derivan del petróleo; los sellos y juntas de los cilindros usan polímeros cuya extracción impacta en ecosistemas.</p>\n<p>•     Economía circular y residuos: el aceite hidráulico usado es un residuo peligroso que debe gestionarse correctamente, enlazando con el ciclo de vida de los fluidos industriales.</p>\n<p>•     Contaminación ambiental: los vertidos de aceite hidráulico en suelo o agua son uno de los principales contaminantes industriales; análisis de impacto en ecosistemas.</p>\n<p><strong>Inglés</strong><br /></p>\n<p>•     Vocabulario técnico universal: la terminología normalizada de neumática e hidráulica es mayoritariamente en inglés o de origen latino/griego internacionalizado: cylinder, piston, valve, pressure, flow, actuator, solenoid, check valve, throttle.</p>\n<p>•     Comprensión de documentación técnica: los manuales de componentes neumáticos (Festo, Parker, SMC) están redactados en inglés; el alumnado aprende a leer fichas técnicas y datasheets reales.</p>\n<p>•     Recursos audiovisuales: los tutoriales de FluidSim y los vídeos sobre automatización industrial más completos se encuentran en inglés en YouTube y otras plataformas.</p>\n<p>•     Normas internacionales: la simbología ISO es un lenguaje técnico universal; comprender su origen y nomenclatura en inglés facilita la búsqueda de información y la colaboración internacional.</p>\n<p><strong>Geografía e Historia</strong><br /></p>\n<p>•     Geografía económica: las cadenas de suministro de componentes neumáticos (Festo — Alemania, SMC — Japón, Parker — EE. UU.) ilustran la globalización industrial y la interdependencia económica entre países.</p>\n<p>•     Historia de la tecnología: los orígenes de la neumática en Mesopotamia y Babilonia (fuelles, obras de riego) y su evolución hasta la automatización industrial del siglo XX conectan con los contenidos de historia de la técnica.</p>\n<p>•     Revolución Industrial: la automatización neumática e hidráulica es hija directa de la mecanización del siglo XIX; el alumnado puede analizar su impacto en la organización del trabajo y las condiciones laborales.</p>\n<p>•     Desigualdad y desarrollo: los países productores de petróleo (para aceites hidráulicos) y sus relaciones geopolíticas son un hilo conductor para analizar la desigualdad en el acceso a la tecnología industrial.</p>\n<p>•     Impacto social de la automatización: la sustitución de tareas manuales por sistemas neumáticos en fábricas plantea preguntas sobre el futuro del trabajo que conectan con la actualidad geopolítica y social.</p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351FQZZAN</odeBlockId>
+      <blockName>ORGANIZACIÓN DEL ALUMNADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351FQZZAN</odeBlockId>
+          <odeIdeviceId>202511101808156487HY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para garantizar un aprendizaje efectivo y colaborativo, se establecen <strong>agrupamientos flexibles</strong> según el tipo de tarea:</p>
+<p><strong>1. Trabajo individual</strong><br /><strong>Cuándo:</strong> </p>
+<p>•     Visionado previo de videos sobre neumática e hidráulica (flipped classroom, sesiones 1 y 3).</p>
+<p>•     Cuestionarios de autoevaluación Kahoot/Quizizz al inicio y al final de cada sesión.</p>
+<p>•     Consulta de fichas de simbología ISO/CETOP y resolución de ejercicios de calculo (sesiones 2 y 4).</p>
+<p>•     Reflexión personal en la tabla KWL al inicio (sesión 1) y al cierre de la SA (sesión 8).</p>
+<p>•     Autoevaluación del proceso con rubrica individual (sesión 7).</p>
+<p><strong>Finalidad: </strong>Desarrollar autonomía, responsabilidad personal y permitir evaluación del progreso individual del alumnado a lo largo de la situación de aprendizaje.</p>
+<p><strong>2. Parejas </strong><br /><strong>Cuándo:</strong> </p>
+<p>•     Investigación sobre componentes específicos: una persona estudia el cilindro S/E, la otra el D/E, y luego se explican mutuamente (sesión 4).</p>
+<p>•     Comparativa neumática vs. hidráulica: cada miembro de la pareja defiende una tecnología y argumenta sus ventajas (sesión 5).</p>
+<p>•     Resolución de ejercicios de análisis de circuitos sencillos con revisión mutua antes de la puesta en común (sesiones 3 y 4).</p>
+<p>•     Feedback sobre el borrador de presentación del proyecto: cada miembro evalúa la exposición de su compañero/a (sesión 7).</p>
+<p><strong>Composición:</strong> Parejas heterogéneas formadas por la docente, con equilibrio de género y nivel competencial, para maximizar el aprendizaje entre iguales.</p>
+<p><strong>Finalidad: </strong>Fomentar ayuda mutua, la verbalización del conocimiento técnico y el aprendizaje entre iguales en un formato más íntimo que el equipo completo.</p>
+<p><strong>3. Equipos cooperativos (3-4 estudiantes)</strong><br /><strong>Cuándo:</strong> </p>
+<p>•     Resolución cooperativa de ejercicios de cálculo con reparto de problemas por subgrupo (sesión 2).</p>
+<p>•     Juego de emparejamiento de simbología neumática: tarjetas distribuidas entre los miembros, discusión y consenso (sesión 3).</p>
+<p>•     Análisis cooperativo de circuitos neumáticos dados: protocolo nombrar -> estado inicial -> funcionamiento (sesión 4).</p>
+<p>•     Diseño y simulación del circuito en FluidSim con roles activos: proceso iterativo diseño-verificación (sesión 6).</p>
+<p>•     Elaboración de la memoria técnica y preparación de la presentación del proyecto (sesión 7).</p>
+<p><strong>Composición:</strong></p>
+<p>Equipos heterogéneos de 3-4 personas con equilibrio de genero y nivel competencial. Los roles se rotan para que todo el alumnado asuma cada responsabilidad:</p>
+<ul>
+<li>Tecnico/a de sistemas: Supervisa el diseño técnico del circuito: selección de componentes, simbología y cálculos.</li>
+<li>Coordinador/a: Gestiona los tiempos, distribuye tareas y vela por la participación equitativa del equipo.</li>
+<li>Documentalista: Registra el diario de equipo, recoge los acuerdos y organiza la memoria técnica.</li>
+<li>Portavoz: Representa al equipo en las puestas en común y en la exposición final ante el comité TecnoFluid.</li>
+</ul>
+<p><strong>Finalidad: </strong>Desarrollar trabajo en equipo, interdependencia positiva, la responsabilidad compartida y las habilidades sociales necesarias para entornos técnicos.</p>
+<p><strong>4. Gran grupo (clase completa)</strong><br /><strong>Cuándo: </strong></p>
+<p>•     Lanzamiento del reto TecnoFluid y explicaciones iniciales de principios físicos (sesiones 1, 2 y 3).</p>
+<p>•     Demostraciones practicas de válvulas 3/2 y 5/2 sobre pizarra digital o con kit físico (sesión 4).</p>
+<p>•     Puestas en común y corrección colectiva de ejercicios de calculo y análisis de circuitos (sesiones 2, 4 y 5).</p>
+<p>•     Debate técnico sobre neumática vs. hidráulica y sobre el impacto ambiental de los sistemas de fluidos (sesión 5).</p>
+<p>•     Presentaciones finales ante el comité TecnoFluid y coevaluación entre equipos (sesión 8).</p>
+<p>•     Cierre y síntesis final: reflexión colectiva sobre lo aprendido y columna final del KWL (sesión 8).</p>
+<p><strong>Finalidad: </strong>Construcción colectiva del conocimiento, aprendizaje vicario a partir de las soluciones de otros equipos, y desarrollo de la competencia comunicativa oral en un contexto técnico-profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511101808156487HY","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para garantizar un aprendizaje efectivo y colaborativo, se establecen <strong>agrupamientos flexibles</strong> según el tipo de tarea:</p>\n<p><strong>1. Trabajo individual</strong><br /><strong>Cuándo:</strong> </p>\n<p>•     Visionado previo de videos sobre neumática e hidráulica (flipped classroom, sesiones 1 y 3).</p>\n<p>•     Cuestionarios de autoevaluación Kahoot/Quizizz al inicio y al final de cada sesión.</p>\n<p>•     Consulta de fichas de simbología ISO/CETOP y resolución de ejercicios de calculo (sesiones 2 y 4).</p>\n<p>•     Reflexión personal en la tabla KWL al inicio (sesión 1) y al cierre de la SA (sesión 8).</p>\n<p>•     Autoevaluación del proceso con rubrica individual (sesión 7).</p>\n<p><strong>Finalidad: </strong>Desarrollar autonomía, responsabilidad personal y permitir evaluación del progreso individual del alumnado a lo largo de la situación de aprendizaje.</p>\n<p><strong>2. Parejas </strong><br /><strong>Cuándo:</strong> </p>\n<p>•     Investigación sobre componentes específicos: una persona estudia el cilindro S/E, la otra el D/E, y luego se explican mutuamente (sesión 4).</p>\n<p>•     Comparativa neumática vs. hidráulica: cada miembro de la pareja defiende una tecnología y argumenta sus ventajas (sesión 5).</p>\n<p>•     Resolución de ejercicios de análisis de circuitos sencillos con revisión mutua antes de la puesta en común (sesiones 3 y 4).</p>\n<p>•     Feedback sobre el borrador de presentación del proyecto: cada miembro evalúa la exposición de su compañero/a (sesión 7).</p>\n<p><strong>Composición:</strong> Parejas heterogéneas formadas por la docente, con equilibrio de género y nivel competencial, para maximizar el aprendizaje entre iguales.</p>\n<p><strong>Finalidad: </strong>Fomentar ayuda mutua, la verbalización del conocimiento técnico y el aprendizaje entre iguales en un formato más íntimo que el equipo completo.</p>\n<p><strong>3. Equipos cooperativos (3-4 estudiantes)</strong><br /><strong>Cuándo:</strong> </p>\n<p>•     Resolución cooperativa de ejercicios de cálculo con reparto de problemas por subgrupo (sesión 2).</p>\n<p>•     Juego de emparejamiento de simbología neumática: tarjetas distribuidas entre los miembros, discusión y consenso (sesión 3).</p>\n<p>•     Análisis cooperativo de circuitos neumáticos dados: protocolo nombrar -> estado inicial -> funcionamiento (sesión 4).</p>\n<p>•     Diseño y simulación del circuito en FluidSim con roles activos: proceso iterativo diseño-verificación (sesión 6).</p>\n<p>•     Elaboración de la memoria técnica y preparación de la presentación del proyecto (sesión 7).</p>\n<p><strong>Composición:</strong></p>\n<p>Equipos heterogéneos de 3-4 personas con equilibrio de genero y nivel competencial. Los roles se rotan para que todo el alumnado asuma cada responsabilidad:</p>\n<ul>\n<li>Tecnico/a de sistemas: Supervisa el diseño técnico del circuito: selección de componentes, simbología y cálculos.</li>\n<li>Coordinador/a: Gestiona los tiempos, distribuye tareas y vela por la participación equitativa del equipo.</li>\n<li>Documentalista: Registra el diario de equipo, recoge los acuerdos y organiza la memoria técnica.</li>\n<li>Portavoz: Representa al equipo en las puestas en común y en la exposición final ante el comité TecnoFluid.</li>\n</ul>\n<p><strong>Finalidad: </strong>Desarrollar trabajo en equipo, interdependencia positiva, la responsabilidad compartida y las habilidades sociales necesarias para entornos técnicos.</p>\n<p><strong>4. Gran grupo (clase completa)</strong><br /><strong>Cuándo: </strong></p>\n<p>•     Lanzamiento del reto TecnoFluid y explicaciones iniciales de principios físicos (sesiones 1, 2 y 3).</p>\n<p>•     Demostraciones practicas de válvulas 3/2 y 5/2 sobre pizarra digital o con kit físico (sesión 4).</p>\n<p>•     Puestas en común y corrección colectiva de ejercicios de calculo y análisis de circuitos (sesiones 2, 4 y 5).</p>\n<p>•     Debate técnico sobre neumática vs. hidráulica y sobre el impacto ambiental de los sistemas de fluidos (sesión 5).</p>\n<p>•     Presentaciones finales ante el comité TecnoFluid y coevaluación entre equipos (sesión 8).</p>\n<p>•     Cierre y síntesis final: reflexión colectiva sobre lo aprendido y columna final del KWL (sesión 8).</p>\n<p><strong>Finalidad: </strong>Construcción colectiva del conocimiento, aprendizaje vicario a partir de las soluciones de otros equipos, y desarrollo de la competencia comunicativa oral en un contexto técnico-profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351PEDRHN</odeBlockId>
+      <blockName>TEMPORALIZACIÓN.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351PEDRHN</odeBlockId>
+          <odeIdeviceId>20251110184053994FMQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje <strong>"¡A toda presión!"</strong> se desarrollará en 8 sesiones lectivas (aproximadamente 3 semanas), con tres sesiones semanales de 55 minutos cada una.</p>
+<table border="1" style="width: 100%; height: 1902px;">
+<tbody>
+<tr style="height: 57px;">
+<td style="width: 35.169%; height: 57px; text-align: left;"><strong>Fase/Sesión</strong><br /></td>
+<td style="width: 34.0426%; height: 57px; text-align: left;"><strong>Descripción de la tarea principal</strong><br /></td>
+<td style="width: 30.7885%; text-align: left; height: 57px;"><strong>Agrupamiento</strong></td>
+</tr>
+<tr style="height: 289px;">
+<td style="width: 35.169%; height: 289px; border-color: #e67e23; border-style: solid; text-align: left;"><strong>Sesión 1 - Presentación y reto TecnoFluid.</strong></td>
+<td style="width: 34.0426%; height: 289px; border-color: #843fa1; border-style: solid; text-align: left;">
+<p>Presentación del proyecto y sistema de gamificación. <br />Rutina "Veo-Pienso-Me pregunto" con imágenes de componentes.<br />Evaluación diagnóstica inicial.<br />Formación de equipos cooperativos y asignación de roles. <br />Tarea: vídeo introductorio sobre neumática e hidráulica.</p>
+</td>
+<td style="width: 30.7885%; text-align: left; height: 289px;">Gran grupo + Individual</td>
+</tr>
+<tr style="height: 201px;">
+<td style="width: 35.169%; height: 201px; text-align: left;"><strong>Sesión 2 Fluidos a presión: presión, Pascal y Boyle-Mariotte.</strong><br /></td>
+<td style="width: 34.0426%; height: 201px; text-align: left;">
+<p>Investigación en parejas sobre la ley de Boyle-Mariotte con jeringas. primer caso de diagnóstico: el compresor no alcanza presión. Tarea: video sobre caudal y continuidad.</p>
+</td>
+<td style="width: 30.7885%; text-align: left; height: 201px;">
+<p>Gran grupo + Parejas + Individual</p>
+</td>
+</tr>
+<tr style="height: 223px;">
+<td style="width: 35.169%; height: 223px; text-align: left;"><strong>Sesión 3 - Elementos del circuito neumático: simbología.</strong><br /></td>
+<td style="width: 34.0426%; height: 223px; text-align: left;">
+<p>Juego de emparejamiento simbología ISO/CETOP en equipos. Mapa conceptual colectivo. Caso practico: identificar componentes en un circuito real. Tarea: video cilindros.</p>
+</td>
+<td style="width: 30.7885%; text-align: left; height: 223px;">Equipos cooperativos + Gran grupo</td>
+</tr>
+<tr style="height: 236px;">
+<td style="width: 35.169%; height: 236px; text-align: left;"><strong>Sesión 4 - Cilindros y válvulas distribuidoras 3/2 y 5/2</strong><br /></td>
+<td style="width: 34.0426%; height: 236px; text-align: left;">Rutina Compara y contrasta: cilindro S/E vs D/E. Calculo de fuerzas. Análisis de circuito dado en equipos. Caso practico: el vástago no avanza. Tarea: video válvulas reguladoras.</td>
+<td style="width: 30.7885%; text-align: left; height: 236px;">Parejas + Equipos + Gran grupo</td>
+</tr>
+<tr style="height: 217px;">
+<td style="width: 35.169%; height: 217px; text-align: left;"><strong>Sesión 5 - Válvulas reguladoras y seguridad. Hidráulica.</strong><br /></td>
+<td style="width: 34.0426%; height: 217px; text-align: left;">
+<p>Estudio de caso: por que las prensas tienen dos pulsadores (válvula AND). Comparativa neumática vs. hidráulica. Debate sobre impacto ambiental de aceites. Tarea: preparar diseño de circuito.<br /></p>
+</td>
+<td style="width: 30.7885%; text-align: left; height: 217px;">Equipos cooperativos + Gran grupo</td>
+</tr>
+<tr style="height: 203px;">
+<td style="width: 35.169%; height: 203px; text-align: left;"><strong>Sesión 6 - Taller de simulación: FluidSim.</strong></td>
+<td style="width: 34.0426%; height: 203px; text-align: left;">
+<p>Diseño iterativo del circuito del proyecto en FluidSim. Proceso diseño-simulación-error-corrección. Revisión entre equipos. Rutina Antes pensaba... Ahora pienso. Tarea: finalizar diseño.</p>
+</td>
+<td style="width: 30.7885%; text-align: left; height: 203px;">Equipos cooperativos</td>
+</tr>
+<tr style="height: 223px;">
+<td style="width: 35.169%; text-align: left; height: 223px;"><strong>Sesión 7 - Memoria técnica y preparación de la exposición.</strong></td>
+<td style="width: 34.0426%; text-align: left; height: 223px;">Elaboración de la memoria técnica con plantilla estructurada. Preparación de presentación digital. Autoevaluación con rubrica. Coevaluación del borrador entre equipos. Tarea: practicar la exposición.</td>
+<td style="width: 30.7885%; text-align: left; height: 223px;">Equipos cooperativos + individual</td>
+</tr>
+<tr style="height: 253px;">
+<td style="width: 35.169%; text-align: left; height: 253px;"><strong>Sesión 8 - Presentaciones finales y evaluación</strong></td>
+<td style="width: 34.0426%; text-align: left; height: 253px;">Exposición ante el comité TecnoFluid (5 min por equipo). Debate sobre automatización y empleo. Autoevaluación y coevaluación. Entrega de insignias y celebración del equipo ganador.</td>
+<td style="width: 30.7885%; text-align: left; height: 253px;">Equipos + Gran grupo + Individual</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110184053994FMQ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje <strong>\"¡A toda presión!\"</strong> se desarrollará en 8 sesiones lectivas (aproximadamente 3 semanas), con tres sesiones semanales de 55 minutos cada una.</p>\n<table border=\"1\" style=\"width: 100%; height: 1902px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 35.169%; height: 57px; text-align: left;\"><strong>Fase/Sesión</strong><br /></td>\n<td style=\"width: 34.0426%; height: 57px; text-align: left;\"><strong>Descripción de la tarea principal</strong><br /></td>\n<td style=\"width: 30.7885%; text-align: left; height: 57px;\"><strong>Agrupamiento</strong></td>\n</tr>\n<tr style=\"height: 289px;\">\n<td style=\"width: 35.169%; height: 289px; border-color: #e67e23; border-style: solid; text-align: left;\"><strong>Sesión 1 - Presentación y reto TecnoFluid.</strong></td>\n<td style=\"width: 34.0426%; height: 289px; border-color: #843fa1; border-style: solid; text-align: left;\">\n<p>Presentación del proyecto y sistema de gamificación. <br />Rutina \"Veo-Pienso-Me pregunto\" con imágenes de componentes.<br />Evaluación diagnóstica inicial.<br />Formación de equipos cooperativos y asignación de roles. <br />Tarea: vídeo introductorio sobre neumática e hidráulica.</p>\n</td>\n<td style=\"width: 30.7885%; text-align: left; height: 289px;\">Gran grupo + Individual</td>\n</tr>\n<tr style=\"height: 201px;\">\n<td style=\"width: 35.169%; height: 201px; text-align: left;\"><strong>Sesión 2 Fluidos a presión: presión, Pascal y Boyle-Mariotte.</strong><br /></td>\n<td style=\"width: 34.0426%; height: 201px; text-align: left;\">\n<p>Investigación en parejas sobre la ley de Boyle-Mariotte con jeringas. primer caso de diagnóstico: el compresor no alcanza presión. Tarea: video sobre caudal y continuidad.</p>\n</td>\n<td style=\"width: 30.7885%; text-align: left; height: 201px;\">\n<p>Gran grupo + Parejas + Individual</p>\n</td>\n</tr>\n<tr style=\"height: 223px;\">\n<td style=\"width: 35.169%; height: 223px; text-align: left;\"><strong>Sesión 3 - Elementos del circuito neumático: simbología.</strong><br /></td>\n<td style=\"width: 34.0426%; height: 223px; text-align: left;\">\n<p>Juego de emparejamiento simbología ISO/CETOP en equipos. Mapa conceptual colectivo. Caso practico: identificar componentes en un circuito real. Tarea: video cilindros.</p>\n</td>\n<td style=\"width: 30.7885%; text-align: left; height: 223px;\">Equipos cooperativos + Gran grupo</td>\n</tr>\n<tr style=\"height: 236px;\">\n<td style=\"width: 35.169%; height: 236px; text-align: left;\"><strong>Sesión 4 - Cilindros y válvulas distribuidoras 3/2 y 5/2</strong><br /></td>\n<td style=\"width: 34.0426%; height: 236px; text-align: left;\">Rutina Compara y contrasta: cilindro S/E vs D/E. Calculo de fuerzas. Análisis de circuito dado en equipos. Caso practico: el vástago no avanza. Tarea: video válvulas reguladoras.</td>\n<td style=\"width: 30.7885%; text-align: left; height: 236px;\">Parejas + Equipos + Gran grupo</td>\n</tr>\n<tr style=\"height: 217px;\">\n<td style=\"width: 35.169%; height: 217px; text-align: left;\"><strong>Sesión 5 - Válvulas reguladoras y seguridad. Hidráulica.</strong><br /></td>\n<td style=\"width: 34.0426%; height: 217px; text-align: left;\">\n<p>Estudio de caso: por que las prensas tienen dos pulsadores (válvula AND). Comparativa neumática vs. hidráulica. Debate sobre impacto ambiental de aceites. Tarea: preparar diseño de circuito.<br /></p>\n</td>\n<td style=\"width: 30.7885%; text-align: left; height: 217px;\">Equipos cooperativos + Gran grupo</td>\n</tr>\n<tr style=\"height: 203px;\">\n<td style=\"width: 35.169%; height: 203px; text-align: left;\"><strong>Sesión 6 - Taller de simulación: FluidSim.</strong></td>\n<td style=\"width: 34.0426%; height: 203px; text-align: left;\">\n<p>Diseño iterativo del circuito del proyecto en FluidSim. Proceso diseño-simulación-error-corrección. Revisión entre equipos. Rutina Antes pensaba... Ahora pienso. Tarea: finalizar diseño.</p>\n</td>\n<td style=\"width: 30.7885%; text-align: left; height: 203px;\">Equipos cooperativos</td>\n</tr>\n<tr style=\"height: 223px;\">\n<td style=\"width: 35.169%; text-align: left; height: 223px;\"><strong>Sesión 7 - Memoria técnica y preparación de la exposición.</strong></td>\n<td style=\"width: 34.0426%; text-align: left; height: 223px;\">Elaboración de la memoria técnica con plantilla estructurada. Preparación de presentación digital. Autoevaluación con rubrica. Coevaluación del borrador entre equipos. Tarea: practicar la exposición.</td>\n<td style=\"width: 30.7885%; text-align: left; height: 223px;\">Equipos cooperativos + individual</td>\n</tr>\n<tr style=\"height: 253px;\">\n<td style=\"width: 35.169%; text-align: left; height: 253px;\"><strong>Sesión 8 - Presentaciones finales y evaluación</strong></td>\n<td style=\"width: 34.0426%; text-align: left; height: 253px;\">Exposición ante el comité TecnoFluid (5 min por equipo). Debate sobre automatización y empleo. Autoevaluación y coevaluación. Entrega de insignias y celebración del equipo ganador.</td>\n<td style=\"width: 30.7885%; text-align: left; height: 253px;\">Equipos + Gran grupo + Individual</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351IFCZHV</odeBlockId>
+      <blockName>PRODUCTOS QUE DESARROLLARÁ EL ALUMNADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351IFCZHV</odeBlockId>
+          <odeIdeviceId>202511101935127792MB</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante la situación de aprendizaje, el alumnado elaborará dos productos principales que demostrarán la adquisición de competencias y conocimientos sobre neumática e hidraúlica:</p>
+<p><strong>PRODUCTO 1: Infografía digital "Anatomía de un sistema Neumático o Hidráulico"</strong><br />Cada equipo cooperativo creará una infografía digital completa y visualmente atractiva que explique los componentes principales de un circuito neumático o hidráulico, sus funciones y sus interrelaciones. La infografía debe servir como material divulgativo para que cualquier persona sin conocimientos técnicos previos pueda comprender el funcionamiento básico de estos sistemas.</p>
+<p><strong>PRODUCTO 2: "Cuaderno del técnico" - Portfolio de diagnósticos</strong><br />Cada equipo cooperativo mantendrá a lo largo de toda la situación de aprendizaje un Cuaderno del Ingeniero/a (portfolio grupal digital o en papel) donde documentará los circuitos analizados, los casos prácticos de diagnostico resueltos, los cálculos realizados, los errores cometidos en la simulación y las reflexiones sobre el proceso de aprendizaje. El cuaderno simula el registro técnico profesional que utiliza un ingeniero/a de automatización.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511101935127792MB","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante la situación de aprendizaje, el alumnado elaborará dos productos principales que demostrarán la adquisición de competencias y conocimientos sobre neumática e hidraúlica:</p>\n<p><strong>PRODUCTO 1: Infografía digital \"Anatomía de un sistema Neumático o Hidráulico\"</strong><br />Cada equipo cooperativo creará una infografía digital completa y visualmente atractiva que explique los componentes principales de un circuito neumático o hidráulico, sus funciones y sus interrelaciones. La infografía debe servir como material divulgativo para que cualquier persona sin conocimientos técnicos previos pueda comprender el funcionamiento básico de estos sistemas.</p>\n<p><strong>PRODUCTO 2: \"Cuaderno del técnico\" - Portfolio de diagnósticos</strong><br />Cada equipo cooperativo mantendrá a lo largo de toda la situación de aprendizaje un Cuaderno del Ingeniero/a (portfolio grupal digital o en papel) donde documentará los circuitos analizados, los casos prácticos de diagnostico resueltos, los cálculos realizados, los errores cometidos en la simulación y las reflexiones sobre el proceso de aprendizaje. El cuaderno simula el registro técnico profesional que utiliza un ingeniero/a de automatización.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+      <odeBlockId>20260325165351VHEBKN</odeBlockId>
+      <blockName>HERRAMIENTAS TECNOLÓGICAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fnxv-9xzdb5ker</odePageId>
+          <odeBlockId>20260325165351VHEBKN</odeBlockId>
+          <odeIdeviceId>20251111181219665APC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de la situación de aprendizaje se utilizarán diversas <strong>herramientas digitales</strong> que faciliten el aprendizaje activo, la colaboración y la creación de contenidos.</p>
+<p><strong>HERRAMIENTAS PARA EL PROFESORADO</strong></p>
+<p>1. Gestión y comunicación</p>
+<ul>
+<li>Educastur 365: Gestión de cuentas, almacenamiento en la nube y comunicación institucional. Plataforma base para todas las herramientas Microsoft del centro.</li>
+<li>Educastur Aulas virtuales Moodle para distribución de materiales de cada sesión, asignación de tareas (circuito, memoria técnica, infografía, video), recogida de entregas y feedback individualizado al alumnado.</li>
+</ul>
+<p>2. Creación de contenidos didácticos</p>
+<ul>
+<li>Canva Educación o Genially: Diseño de presentaciones interactivas para las explicaciones de cada sesión (simbología, tipos de válvulas, principio de Pascal). Creación de plantillas para la infografía.</li>
+<li>Edpuzzle: Vídeos educativos con preguntas intercaladas para flipped classroom, verificando que el alumnado ha visionado el contenido previo y ha comprendido los conceptos clave antes de llegar al aula.<br /></li>
+<li>FluidSim: Simulador de circuitos neumáticos e hidráulicos. El profesorado prepara circuitos de demostración y de practica guiada. Disponible en versión gratuita reducida o mediante licencia educativa.</li>
+</ul>
+<p>3. Evaluación y seguimiento.</p>
+<ul>
+<li>Forms: Cuestionarios de evaluación inicial, autoevaluaciones y feedback sobre la situación de aprendizaje<br /></li>
+<li>Rúbricas digitales (CoRubrics): Evaluación criterial de productos finales. Registro de observacion directa durante las sesiones de trabajo cooperativo. Permite exportar calificaciones al sistema de gestión del centro.</li>
+<li>Kahoot/ Quizizz: Evaluación formativa gamificada al final de sesiones para verificar comprensión inmediata de conceptos (presión, simbología, válvulas). Los resultados orientan al docente del ritmo de avance del alumnado.<br /></li>
+</ul>
+<p>4. Organización y gamificación</p>
+<ul>
+<li>Classdojo o Classcraft:  Sistema de insignias digitales, niveles y ranking cooperativo de equipos. Se otorgan puntos por participacion, calidad del trabajo, actitud colaborativa y superacion de retos. Las insignias se desbloquean al completar hitos clave de la situación de aprendizaje (primera simulación funcional, mejor infografía, etc.).<br /></li>
+<li>Trello o Notion: Planificación docente de la situación de aprendizaje y seguimiento visual del progreso de cada equipo. Tableros Kanban con las tareas de cada sesión (pendiente / en curso / entregado). Permite detectar equipos con dificultades de forma anticipada.</li>
+</ul>
+<p><strong>HERRAMIENTAS PARA EL ALUMNADO</strong></p>
+<p><br />1. Búsqueda y gestión de información</p>
+<ul>
+<li>Navegadores web (Chrome, Firefox, Edge).</li>
+<li>Búsqueda de información técnica sobre componentes neumáticos e hidráulicos, consulta de catálogos de fabricantes (Festo, SMC, Parker) y visualización de videos educativos sobre automatización industrial.</li>
+<li>Investigación sobre principios físicos (Pascal, Boyle-Mariotte), historia de la ingeniería hidráulica y aplicaciones industriales actuales. El alumnado evalúa la fiabilidad de las fuentes.</li>
+<li>Consulta de fichas técnicas reales de componentes neumáticos: especificaciones de cilindros, presiones de trabajo, tipos de conexión y símbolos normalizados. Conecta con el contexto industrial asturiano.</li>
+</ul>
+<p>2. Colaboración y comunicación<br /></p>
+<ul>
+<li>Microsoft Word 365: Elaboración colaborativa del Cuaderno del Ingeniero/a : diario de equipo, registro de cálculos, circuitos analizados y casos de diagnostico. Permite edición simultanea y control de versiones.<br /></li>
+<li>OneDrive: Almacenamiento compartido de capturas de pantalla del simulador, documentos del equipo, guiones del podcast/video y portfolio digital. Accesible desde cualquier dispositivo del centro o desde casa.<br /></li>
+<li>Padlet: Mural colaborativo digital para la lluvia de ideas inicial (rutina Veo-Pienso-Me pregunto), construcción del mapa conceptual colectivo y compartir recursos entre equipos.</li>
+</ul>
+<p>3. Creación de contenidos multimedia</p>
+<ul>
+<li>Canva Educación (cuenta gratuita): Diseño de la infografía Anatomía del circuito neumático/hidráulico. Plantillas de infografía con iconos técnicos, paleta de colores personalizable y exportación a PDF de alta resolución. Recomendada como primera opción por su usabilidad.<br /></li>
+<li>PowerPoint / Google Slides: Presentaciones de equipos para la exposición oral y alternativa accesible a Canva para la infografía. Formato familiar para el alumnado que reduce la curva de aprendizaje.<br /></li>
+<li>Cámara de móvil / tablet del centro:  Fotografías y videos cortos durante la sesión de simulación y de los bocetos del circuito. Documentación visual del proceso iterativo para el Cuaderno del Ingeniero/a.</li>
+<li>Loom: Grabación de pantalla y edición de video para el Producto modalidad A (video educativo). Permite capturar la simulación en acción con locución superpuesta. </li>
+<li>Audacity: Grabación, edición y publicación del episodio de podcast. Es gratuito y multiplataforma.</li>
+<li>Genially/ Google Forms /Breakout EDU: Creación del breakout educativo digital. Genially permite juegos de escape interactivos con multimedia integrado, Google Forms para las preguntas con lógica de ramificación.</li>
+</ul>
+<p>4. Organización y aprendizaje</p>
+<ul>
+<li>Padlet: Mural colaborativo digital para lluvia de ideas inicial y compartir recursos entre equipos<br /></li>
+<li>FluidSim: Simulador principal de circuitos neumáticos e hidráulicos. El alumnado diseña, conecta y ejecuta su circuito, observando el comportamiento del fluido y detectando errores antes de cualquier implementación física.<br />Kahoot (modo estudiante): Participación en cuestionarios gamificados de evaluación formativa. Competición amistosa entre equipos que refuerza la memorización de términos y conceptos técnicos.<br />Quizlet: Tarjetas de estudio (flashcards) con el vocabulario técnico del glosario: símbolos ISO/CETOP, tipos de válvulas, formulas de presión y fuerza. Repaso autónomo en casa o en los momentos de transición de la sesión.<br /></li>
+</ul>
+<p>5. Portfolio y autoevaluación<br /></p>
+<ul>
+<li>Formularios de autoevaluación al final de cada semana (3 preguntas de reflexión: que aprendí, que me cuesta, como contribuyo al equipo). Los resultados son visibles solo para el docente y el propio estudiante.</li>
+<li>Dianas de autoevaluación y reflexiones metacognitivas sobre el trabajo en equipo. Facilita la comparación del progreso entre el inicio y el final de la situación de aprendizaje.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251111181219665APC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de la situación de aprendizaje se utilizarán diversas <strong>herramientas digitales</strong> que faciliten el aprendizaje activo, la colaboración y la creación de contenidos.</p>\n<p><strong>HERRAMIENTAS PARA EL PROFESORADO</strong></p>\n<p>1. Gestión y comunicación</p>\n<ul>\n<li>Educastur 365: Gestión de cuentas, almacenamiento en la nube y comunicación institucional. Plataforma base para todas las herramientas Microsoft del centro.</li>\n<li>Educastur Aulas virtuales Moodle para distribución de materiales de cada sesión, asignación de tareas (circuito, memoria técnica, infografía, video), recogida de entregas y feedback individualizado al alumnado.</li>\n</ul>\n<p>2. Creación de contenidos didácticos</p>\n<ul>\n<li>Canva Educación o Genially: Diseño de presentaciones interactivas para las explicaciones de cada sesión (simbología, tipos de válvulas, principio de Pascal). Creación de plantillas para la infografía.</li>\n<li>Edpuzzle: Vídeos educativos con preguntas intercaladas para flipped classroom, verificando que el alumnado ha visionado el contenido previo y ha comprendido los conceptos clave antes de llegar al aula.<br /></li>\n<li>FluidSim: Simulador de circuitos neumáticos e hidráulicos. El profesorado prepara circuitos de demostración y de practica guiada. Disponible en versión gratuita reducida o mediante licencia educativa.</li>\n</ul>\n<p>3. Evaluación y seguimiento.</p>\n<ul>\n<li>Forms: Cuestionarios de evaluación inicial, autoevaluaciones y feedback sobre la situación de aprendizaje<br /></li>\n<li>Rúbricas digitales (CoRubrics): Evaluación criterial de productos finales. Registro de observacion directa durante las sesiones de trabajo cooperativo. Permite exportar calificaciones al sistema de gestión del centro.</li>\n<li>Kahoot/ Quizizz: Evaluación formativa gamificada al final de sesiones para verificar comprensión inmediata de conceptos (presión, simbología, válvulas). Los resultados orientan al docente del ritmo de avance del alumnado.<br /></li>\n</ul>\n<p>4. Organización y gamificación</p>\n<ul>\n<li>Classdojo o Classcraft:  Sistema de insignias digitales, niveles y ranking cooperativo de equipos. Se otorgan puntos por participacion, calidad del trabajo, actitud colaborativa y superacion de retos. Las insignias se desbloquean al completar hitos clave de la situación de aprendizaje (primera simulación funcional, mejor infografía, etc.).<br /></li>\n<li>Trello o Notion: Planificación docente de la situación de aprendizaje y seguimiento visual del progreso de cada equipo. Tableros Kanban con las tareas de cada sesión (pendiente / en curso / entregado). Permite detectar equipos con dificultades de forma anticipada.</li>\n</ul>\n<p><strong>HERRAMIENTAS PARA EL ALUMNADO</strong></p>\n<p><br />1. Búsqueda y gestión de información</p>\n<ul>\n<li>Navegadores web (Chrome, Firefox, Edge).</li>\n<li>Búsqueda de información técnica sobre componentes neumáticos e hidráulicos, consulta de catálogos de fabricantes (Festo, SMC, Parker) y visualización de videos educativos sobre automatización industrial.</li>\n<li>Investigación sobre principios físicos (Pascal, Boyle-Mariotte), historia de la ingeniería hidráulica y aplicaciones industriales actuales. El alumnado evalúa la fiabilidad de las fuentes.</li>\n<li>Consulta de fichas técnicas reales de componentes neumáticos: especificaciones de cilindros, presiones de trabajo, tipos de conexión y símbolos normalizados. Conecta con el contexto industrial asturiano.</li>\n</ul>\n<p>2. Colaboración y comunicación<br /></p>\n<ul>\n<li>Microsoft Word 365: Elaboración colaborativa del Cuaderno del Ingeniero/a : diario de equipo, registro de cálculos, circuitos analizados y casos de diagnostico. Permite edición simultanea y control de versiones.<br /></li>\n<li>OneDrive: Almacenamiento compartido de capturas de pantalla del simulador, documentos del equipo, guiones del podcast/video y portfolio digital. Accesible desde cualquier dispositivo del centro o desde casa.<br /></li>\n<li>Padlet: Mural colaborativo digital para la lluvia de ideas inicial (rutina Veo-Pienso-Me pregunto), construcción del mapa conceptual colectivo y compartir recursos entre equipos.</li>\n</ul>\n<p>3. Creación de contenidos multimedia</p>\n<ul>\n<li>Canva Educación (cuenta gratuita): Diseño de la infografía Anatomía del circuito neumático/hidráulico. Plantillas de infografía con iconos técnicos, paleta de colores personalizable y exportación a PDF de alta resolución. Recomendada como primera opción por su usabilidad.<br /></li>\n<li>PowerPoint / Google Slides: Presentaciones de equipos para la exposición oral y alternativa accesible a Canva para la infografía. Formato familiar para el alumnado que reduce la curva de aprendizaje.<br /></li>\n<li>Cámara de móvil / tablet del centro:  Fotografías y videos cortos durante la sesión de simulación y de los bocetos del circuito. Documentación visual del proceso iterativo para el Cuaderno del Ingeniero/a.</li>\n<li>Loom: Grabación de pantalla y edición de video para el Producto modalidad A (video educativo). Permite capturar la simulación en acción con locución superpuesta. </li>\n<li>Audacity: Grabación, edición y publicación del episodio de podcast. Es gratuito y multiplataforma.</li>\n<li>Genially/ Google Forms /Breakout EDU: Creación del breakout educativo digital. Genially permite juegos de escape interactivos con multimedia integrado, Google Forms para las preguntas con lógica de ramificación.</li>\n</ul>\n<p>4. Organización y aprendizaje</p>\n<ul>\n<li>Padlet: Mural colaborativo digital para lluvia de ideas inicial y compartir recursos entre equipos<br /></li>\n<li>FluidSim: Simulador principal de circuitos neumáticos e hidráulicos. El alumnado diseña, conecta y ejecuta su circuito, observando el comportamiento del fluido y detectando errores antes de cualquier implementación física.<br />Kahoot (modo estudiante): Participación en cuestionarios gamificados de evaluación formativa. Competición amistosa entre equipos que refuerza la memorización de términos y conceptos técnicos.<br />Quizlet: Tarjetas de estudio (flashcards) con el vocabulario técnico del glosario: símbolos ISO/CETOP, tipos de válvulas, formulas de presión y fuerza. Repaso autónomo en casa o en los momentos de transición de la sesión.<br /></li>\n</ul>\n<p>5. Portfolio y autoevaluación<br /></p>\n<ul>\n<li>Formularios de autoevaluación al final de cada semana (3 preguntas de reflexión: que aprendí, que me cuesta, como contribuyo al equipo). Los resultados son visibles solo para el docente y el propio estudiante.</li>\n<li>Dianas de autoevaluación y reflexiones metacognitivas sobre el trabajo en equipo. Facilita la comparación del progreso entre el inicio y el final de la situación de aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny2-x0gokryzl</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny2-x0gokryzl</odePageId>
+      <odeBlockId>20260325165351VGWDTD</odeBlockId>
+      <blockName>JUSTIFICACIÓN DE SU DESARROLLO Y EL IMPACTO ESPERADO.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny2-x0gokryzl</odePageId>
+          <odeBlockId>20260325165351VGWDTD</odeBlockId>
+          <odeIdeviceId>20251110163623ESUTHY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje, A toda presión!, se justifica por la necesidad de que el alumnado de 4 de la ESO comprenda los principios físicos que rigen el comportamiento de los fluidos a presión y los sistemas tecnológicos que los aprovechan para generar movimiento, fuerza y automatización controlada en la industria moderna. La neumática y la hidráulica no son disciplinas abstractas: están presentes en el entorno cotidiano del alumnado desde los frenos de un vehículo o las puertas automáticas de un autobús hasta los brazos de las excavadoras que transforman los paisajes de sus ciudades.</p>
+<p>En una sociedad cada vez mas automatizada, donde la industria 4.0, la robótica y los sistemas de control inteligente son el horizonte laboral de los próximos años, resulta fundamental que el alumnado de Tecnología de 4 ESO no sea un mero espectador de la maquinaria que le rodea, sino que comprenda su lógica interna. El conocimiento de los sistemas neumáticos e hidráulicos no solo fomenta un pensamiento técnico y crítico, sino que empodera al alumnado para tomar decisiones informadas sobre diseño, seguridad, eficiencia energética y sostenibilidad en contextos reales.</p>
+<p> El estudio de los circuitos neumáticos e hidráulicos, de sus principios físicos (presión, Pascal, Boyle-Mariotte, caudal) y de sus componentes (compresores, cilindros, válvulas distribuidoras, actuadores) permite al alumnado:</p>
+<p>•     Identificar los principios físicos que gobiernan los fluidos a presión y aplicarlos en la resolución de problemas cuantitativos reales.</p>
+<p>•     Comprender la lógica de funcionamiento de los circuitos automáticos y la interdependencia entre sus elementos.</p>
+<p>•     Diseñar y simular soluciones técnicas funcionales para problemas industriales reales, aplicando el proceso iterativo propio de la ingeniería.</p>
+<p>•     Diagnosticar el fallo de un circuito neumático dado y proponer soluciones técnicas argumentadas.</p>
+<p>•     Desarrollar pensamiento computacional al analizar sistemas automáticos como secuencias lógicas de condiciones, acciones y retroalimentaciones.</p>
+<p>•     Tomar conciencia sobre el consumo energético, el impacto ambiental de los fluidos hidráulicos y la importancia de la economía circular en la industria.</p>
+<p>Comunicar soluciones técnicas con vocabulario preciso, simbología normalizada (ISO/CETOP) y lenguaje inclusivo, tanto de forma escrita como oral.</p>
+<p>Este enfoque se alinea plenamente con los principios de la LOMLOE, que promueve un aprendizaje competencial, practico y significativo, conectando los contenidos curriculares con la realidad cotidiana del alumnado. La situación fomenta el pensamiento critico al analizar la automatización desde una perspectiva técnica, social y ética, y desarrolla la competencia STEM desde la practica: aprendiendo haciendo y resolviendo problemas reales.</p>
+<p><strong>Impacto esperado: </strong></p>
+<p>Se espera que, al finalizar esta situación de aprendizaje, el alumnado:</p>
+<p>1.   Identifique, describa y represente simbólicamente los componentes de un circuito neumático o hidráulico y comprenda su función especifica dentro del sistema.</p>
+<p>2.   Resuelva problemas cuantitativos de presión, fuerza y caudal aplicando las leyes físicas correspondientes con precisión y rigor.</p>
+<p>3.   Diseñe y simule un circuito neumático o hidráulico funcional que resuelva una necesidad industrial real, justificando cada decisión de diseño con argumentos técnicos y de sostenibilidad.</p>
+<p>4.   Analice el funcionamiento de circuitos neumáticos dados, diagnostique fallos y proponga soluciones aplicando el protocolo de análisis técnico.</p>
+<p>5.   Adquiera y utilice con precisión el vocabulario técnico normalizado (ISO/CETOP) que le permita comunicarse eficazmente en contextos profesionales y académicos de automatización.</p>
+<p>6.   Despierte vocaciones STEM, especialmente entre las alumnas, al desmitificar la ingeniería de automatización y presentarla de forma accesible, practica y conectada con problemas reales.</p>
+<p>7.   Desarrolle conciencia medioambiental respecto al ciclo de vida de los fluidos industriales, el impacto ambiental de los sistemas hidráulicos y la importancia de la economía circular en la industria.</p>
+<p>En definitiva, se busca formar ciudadanos y ciudadanas tecnológicamente competentes, capaces de comprender los sistemas automáticos que les rodean, tomar decisiones técnicas informadas y participar activamente en una sociedad industrial cada vez mas automatizada, desde una perspectiva critica, sostenible y empoderada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110163623ESUTHY","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje, A toda presión!, se justifica por la necesidad de que el alumnado de 4 de la ESO comprenda los principios físicos que rigen el comportamiento de los fluidos a presión y los sistemas tecnológicos que los aprovechan para generar movimiento, fuerza y automatización controlada en la industria moderna. La neumática y la hidráulica no son disciplinas abstractas: están presentes en el entorno cotidiano del alumnado desde los frenos de un vehículo o las puertas automáticas de un autobús hasta los brazos de las excavadoras que transforman los paisajes de sus ciudades.</p>\n<p>En una sociedad cada vez mas automatizada, donde la industria 4.0, la robótica y los sistemas de control inteligente son el horizonte laboral de los próximos años, resulta fundamental que el alumnado de Tecnología de 4 ESO no sea un mero espectador de la maquinaria que le rodea, sino que comprenda su lógica interna. El conocimiento de los sistemas neumáticos e hidráulicos no solo fomenta un pensamiento técnico y crítico, sino que empodera al alumnado para tomar decisiones informadas sobre diseño, seguridad, eficiencia energética y sostenibilidad en contextos reales.</p>\n<p> El estudio de los circuitos neumáticos e hidráulicos, de sus principios físicos (presión, Pascal, Boyle-Mariotte, caudal) y de sus componentes (compresores, cilindros, válvulas distribuidoras, actuadores) permite al alumnado:</p>\n<p>•     Identificar los principios físicos que gobiernan los fluidos a presión y aplicarlos en la resolución de problemas cuantitativos reales.</p>\n<p>•     Comprender la lógica de funcionamiento de los circuitos automáticos y la interdependencia entre sus elementos.</p>\n<p>•     Diseñar y simular soluciones técnicas funcionales para problemas industriales reales, aplicando el proceso iterativo propio de la ingeniería.</p>\n<p>•     Diagnosticar el fallo de un circuito neumático dado y proponer soluciones técnicas argumentadas.</p>\n<p>•     Desarrollar pensamiento computacional al analizar sistemas automáticos como secuencias lógicas de condiciones, acciones y retroalimentaciones.</p>\n<p>•     Tomar conciencia sobre el consumo energético, el impacto ambiental de los fluidos hidráulicos y la importancia de la economía circular en la industria.</p>\n<p>Comunicar soluciones técnicas con vocabulario preciso, simbología normalizada (ISO/CETOP) y lenguaje inclusivo, tanto de forma escrita como oral.</p>\n<p>Este enfoque se alinea plenamente con los principios de la LOMLOE, que promueve un aprendizaje competencial, practico y significativo, conectando los contenidos curriculares con la realidad cotidiana del alumnado. La situación fomenta el pensamiento critico al analizar la automatización desde una perspectiva técnica, social y ética, y desarrolla la competencia STEM desde la practica: aprendiendo haciendo y resolviendo problemas reales.</p>\n<p><strong>Impacto esperado: </strong></p>\n<p>Se espera que, al finalizar esta situación de aprendizaje, el alumnado:</p>\n<p>1.   Identifique, describa y represente simbólicamente los componentes de un circuito neumático o hidráulico y comprenda su función especifica dentro del sistema.</p>\n<p>2.   Resuelva problemas cuantitativos de presión, fuerza y caudal aplicando las leyes físicas correspondientes con precisión y rigor.</p>\n<p>3.   Diseñe y simule un circuito neumático o hidráulico funcional que resuelva una necesidad industrial real, justificando cada decisión de diseño con argumentos técnicos y de sostenibilidad.</p>\n<p>4.   Analice el funcionamiento de circuitos neumáticos dados, diagnostique fallos y proponga soluciones aplicando el protocolo de análisis técnico.</p>\n<p>5.   Adquiera y utilice con precisión el vocabulario técnico normalizado (ISO/CETOP) que le permita comunicarse eficazmente en contextos profesionales y académicos de automatización.</p>\n<p>6.   Despierte vocaciones STEM, especialmente entre las alumnas, al desmitificar la ingeniería de automatización y presentarla de forma accesible, practica y conectada con problemas reales.</p>\n<p>7.   Desarrolle conciencia medioambiental respecto al ciclo de vida de los fluidos industriales, el impacto ambiental de los sistemas hidráulicos y la importancia de la economía circular en la industria.</p>\n<p>En definitiva, se busca formar ciudadanos y ciudadanas tecnológicamente competentes, capaces de comprender los sistemas automáticos que les rodean, tomar decisiones técnicas informadas y participar activamente en una sociedad industrial cada vez mas automatizada, desde una perspectiva critica, sostenible y empoderada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fny2-x0gokryzl</odePageId>
+      <odeBlockId>20260325165351MJYGJB</odeBlockId>
+      <blockName>RELACIÓN DE LA SITUACIÓN DE APRENDIZAJE CON LOS OBJETIVOS DE DESARROLLO SOSTENIBLE (ODS) Y RETOS DEL SIGLO XXI.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny2-x0gokryzl</odePageId>
+          <odeBlockId>20260325165351MJYGJB</odeBlockId>
+          <odeIdeviceId>20251110201744959XVN</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje contribuye a los <strong>ODS 4 (Educación de calidad)</strong>, aprendizaje competencial, práctico y significativo anclado en la realidad industrial del entorno; <strong>ODS 5 (Igualdad de género)</strong>, fomento de vocaciones STEM entre las alumnas y eliminación de estereotipos de genero en la ingeniería de automatización; <strong>ODS 9 (Industria, innovación e infraestructura)</strong>, comprensión de los sistemas de control automático que articulan la industria moderna y la Industria 4.0.; <strong>ODS 12 (Producción y consumo responsables)</strong>, análisis del impacto ambiental de los aceites hidráulicos, la eficiencia energética de los compresores y la economía circular en los sistemas industriales; y <strong>ODS 13 (Acción por el clima) </strong>sensibilización sobre el consumo energético de los sistemas neumáticos y las alternativas más eficientes y sostenibles.</p>
+<p>Responde a <strong>retos del siglo XXI</strong> como la transición digital, la sostenibilidad ambiental, el pensamiento crítico, la autonomía personal en resolución de problemas tecnológicos y la formación de ciudadanos digitales responsables. Prepara al alumnado para tomar decisiones informadas sobre tecnología, comprendiendo su impacto global y promoviendo la economía circular y el consumo consciente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110201744959XVN","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje contribuye a los <strong>ODS 4 (Educación de calidad)</strong>, aprendizaje competencial, práctico y significativo anclado en la realidad industrial del entorno; <strong>ODS 5 (Igualdad de género)</strong>, fomento de vocaciones STEM entre las alumnas y eliminación de estereotipos de genero en la ingeniería de automatización; <strong>ODS 9 (Industria, innovación e infraestructura)</strong>, comprensión de los sistemas de control automático que articulan la industria moderna y la Industria 4.0.; <strong>ODS 12 (Producción y consumo responsables)</strong>, análisis del impacto ambiental de los aceites hidráulicos, la eficiencia energética de los compresores y la economía circular en los sistemas industriales; y <strong>ODS 13 (Acción por el clima) </strong>sensibilización sobre el consumo energético de los sistemas neumáticos y las alternativas más eficientes y sostenibles.</p>\n<p>Responde a <strong>retos del siglo XXI</strong> como la transición digital, la sostenibilidad ambiental, el pensamiento crítico, la autonomía personal en resolución de problemas tecnológicos y la formación de ciudadanos digitales responsables. Prepara al alumnado para tomar decisiones informadas sobre tecnología, comprendiendo su impacto global y promoviendo la economía circular y el consumo consciente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny3-txpqgsd4a</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny3-txpqgsd4a</odePageId>
+      <odeBlockId>20260325165351EMSFAZ</odeBlockId>
+      <blockName>COMPETENCIAS ESPECÍFICAS, DESCRIPTORES OPERATIVOS Y CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny3-txpqgsd4a</odePageId>
+          <odeBlockId>20260325165351EMSFAZ</odeBlockId>
+          <odeIdeviceId>20251110202635635AVW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se detallan las competencias específicas y sus descriptores operativos asociados así como los criterios de evaluación que se emplearan en esta situación de aprendizaje.</p>
+<p><strong>Competencia específica 1</strong><br /><em>Identificar y proponer problemas tecnologicos con iniciativa y creatividad, estudiando las necesidades de su entorno proximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de manera eficiente, accesible, sostenible e innovadora.</em><br /></p>
+<p><strong>Descriptores operativos:</strong> STEM1 · STEM2 · CD1 · CD3 · CPSAA3 · CPSAA4 · CE1 · CE3</p>
+<p>Esta competencia constituye el eje central de la situación de aprendizaje. Permite al alumnado desarrollar el razonamiento lógico-matemático aplicado a fluidos (STEM1 y STEM2), planificar soluciones técnicas de forma colaborativa e iterativa (CPSAA3 y CPSAA4), utilizar herramientas digitales de simulación de forma critica (CD1 y CD3) y actuar con iniciativa emprendedora al identificar necesidades industriales reales (CE1 y CE3).</p>
+<p><strong>Criterios de evaluación trabajados:</strong></p>
+<p><strong>1.1.</strong> Idear y planificar soluciones tecnológicas emprendedoras que generen un valor para la comunidad a partir de la observación y el análisis del entorno mas cercano, estudiando sus necesidades, requisitos y posibilidades de mejora.</p>
+<ul>
+<li>Núcleo fundamental: El alumnado identifica una necesidad industrial real (p. ej. automatizar el cierre de una compuerta, controlar la velocidad de una cinta transportadora) y formula un reto técnico concreto que orientará todo el proceso de diseño del circuito.</li>
+<li>Evidencia observable: la elección y descripción de la aplicación industrial del proyecto y la memoria técnica (necesidad detectada).</li>
+</ul>
+<p><strong>1.2. </strong>Aplicar con iniciativa estrategias colaborativas de gestión de proyectos con una perspectiva interdisciplinar y siguiendo un proceso iterativo de validación, desde la fase de ideación hasta la difusión de la solución.</p>
+<ul>
+<li>Núcleo fundamental: El ciclo diseño-simulación-error-corrección de la fase simulación materializa exactamente el proceso iterativo descrito. El diario de equipo documenta cada iteración.</li>
+<li>Evidencia observable: el diario de equipo con el registro de iteraciones y las capturas del proceso en la simulación.</li>
+</ul>
+<p><strong>1.3. </strong>Abordar la gestión del proyecto de forma creativa, aplicando estrategias y técnicas colaborativas adecuadas, así como metodos de investigación en la ideación de soluciones lo más eficientes, accesibles e innovadoras posibles.</p>
+<ul>
+<li>Núcleo fundamental: La elección de la modalidad del Producto (video, podcast o breakout) refleja la creatividad del equipo en la comunicación de soluciones técnicas. La infografía requiere sintetizar y visualizar conceptos complejos de forma original.</li>
+<li>Evidencia observable: calidad e innovación de la infografía) y del recurso educativo creativo.</li>
+</ul>
+<p><strong>Competencia específica 2 </strong><br /><em>Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares, utilizando procedimientos y recursos tecnológicos y analizando el ciclo de vida de productos, para fabricar soluciones tecnológicas accesibles y sostenibles que den respuesta a necesidades planteadas.</em><br /></p>
+<p><strong>Descriptores operativos:</strong> STEM2 · STEM5 · CD2 · CPSAA4 · CC4 · CCEC4</p>
+<p>Esta competencia se concreta en la aplicación de conocimientos físicos (Boyle-Mariotte, Pascal, ley de la continuidad) y técnicos (simbología, tipos de válvulas, cálculos de fuerza) al diseño de soluciones neumáticas o hidráulicas reales. Implica analizar el ciclo de vida del producto (STEM5), usar herramientas de diseño y simulación (CD2 y CPSAA4) y valorar el impacto ecosocial de las decisiones técnicas (CC4 y CCEC4).</p>
+<p><strong>Criterios de evaluación trabajados:</strong></p>
+<p><strong>2.1.</strong> Analizar el diseño de un producto que de respuesta a una necesidad planteada, evaluando su demanda, evolución y previsión de fin de ciclo de vida con un criterio ético, responsable e inclusivo.</p>
+<ul>
+<li>Núcleo fundamental: La memoria técnica (valoración de sostenibilidad) y el debate sobre el impacto ambiental de los aceites hidráulicos son las evidencias principales de este criterio.</li>
+<li>Conexión práctica: el alumnado compara la huella energética y ambiental de una solución neumática vs. hidráulica para su aplicación, argumentando la elección con criterios de eficiencia y sostenibilidad.</li>
+</ul>
+<p><strong>2.2</strong>. Fabricar productos y soluciones tecnológicas, aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</p>
+<ul>
+<li>Núcleo fundamental: El circuito simulado junto con la memoria técnica es la evidencia principal. El alumnado selecciona componentes, los conecta con simbología correcta y verifica el funcionamiento mediante simulación digital.</li>
+<li>Componentes trabajados: compresor, deposito, unidad de tratamiento, cilindros S/E y D/E, válvulas distribuidoras 3/2 y 5/2, válvulas lógicas (AND, OR), antirretorno, reguladora de presión y estranguladora.</li>
+</ul>
+<p><strong>Competencia específica 3</strong><br /><em>Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva, usando un lenguaje inclusivo y no sexista, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias, para intercambiar la información de manera responsable y fomentar el trabajo en equipo.</em><br /></p>
+<p><strong>Descriptores operativos:</strong> CCL1 · STEM4 · CD3 · CPSAA3 · CCEC3</p>
+<p>Esta competencia se desarrolla en la dimensión comunicativa de la situación de aprendizaje: el alumnado no solo diseña el circuito, sino que debe saber explicarlo con precisión y claridad ante una audiencia técnica (el comité TecnoFluid) y ante una audiencia no especializada (mediante la infografía y el recurso creativo). Integra la expresión oral (CCL1 y STEM4), el uso de herramientas digitales de comunicación (CD3), el trabajo colaborativo (CPSAA3) y la creatividad expresiva (CCEC3).</p>
+<p><strong>Criterios de evaluación trabajados:</strong></p>
+<p><strong>3.1.</strong> Intercambiar información y fomentar el trabajo en equipo de manera asertiva, empleando las herramientas digitales adecuadas junto con el vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados.</p>
+<ul>
+<li>Núcleo fundamental: El glosario técnico del Cuaderno del Ingeniero/a, la revisión de equipos y la simbología correcta en el circuito simulado son las evidencias principales.</li>
+<li>Vocabulario mínimo exigido: presión manométrica, presión absoluta, caudal, válvula distribuidora, cilindro de doble efecto, vías, posiciones, pilotaje, simbología ISO/CETOP.</li>
+</ul>
+<p></p>
+<p><strong></strong></p>
+<p><strong>3.2.</strong> Presentar y difundir las propuestas o soluciones tecnológicas de manera efectiva, empleando la entonación, expresión, gestión del tiempo y adaptación adecuada del discurso, así como un lenguaje inclusivo y no sexista.</p>
+<ul>
+<li>Núcleo fundamental: La exposición oral ante el comité TecnoFluid es la evidencia principal. La infografía y el recurso educativo creativo son evidencias complementarias de difusión para audiencias distintas.</li>
+<li>Adaptación del discurso: el alumnado debe demostrar que sabe explicar el mismo circuito de forma técnica ante el comité y de forma divulgativa ante una persona sin formación (infografía o podcast).</li>
+</ul>
+<p><strong>Competencia específica 4</strong><br /><em>Desarrollar soluciones automatizadas a problemas planteados, aplicando los conocimientos necesarios e incorporando tecnologías emergentes, para diseñar y construir sistemas de control programables y robóticos.</em></p>
+<p><strong>Descriptores operativos:</strong> CP2 · STEM1 · STEM3 · CD5 · CPSAA5 · CE3</p>
+<p>Los circuitos neumáticos e hidráulicos son el paradigma clásico de los sistemas de control automático: sensores (finales de carrera, palpadores), lógica de control (válvulas AND, OR, distribuidoras), actuadores (cilindros) y retroalimentación (control de posición). Comprenderlos es la base del pensamiento de automatización y robótica (STEM1 y STEM3). La simulación digital (CD5) y la resolución autónoma de problemas (CPSAA5) completan el perfil.</p>
+<p><strong>Criterios de evaluación trabajados:</strong></p>
+<p><strong>4.1.</strong> Diseñar, construir, controlar o simular sistemas automáticos programables y robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinares.</p>
+<ul>
+<li>Núcleo fundamental: El diseño y la simulación del circuito es la evidencia principal y directa de este criterio. Incluye la selección de componentes neumáticos, la simbología normalizada, los cálculos de presión y fuerza, y la verificación del funcionamiento automático del sistema.</li>
+<li>Sistemas de control trabajados: válvulas de pilotaje manual y neumático, finales de carrera mecánicos, válvulas de simultaneidad para seguridad, regulación de velocidad con estranguladora.</li>
+<li>Conexión con robótica: los mismos principios (sensor -> lógica -> actuador -> retroalimentación) que rigen el circuito neumático son la base de cualquier sistema robótico industrial. La neumática es la primera aproximación tangible a la automatización.</li>
+</ul>
+<p>Estas competencias y criterios garantizan un desarrollo competencial coherente, progresivo y evaluable, centrado específicamente en el conocimiento técnico del funcionamiento de sistemas hidráulicos y neumáticos, así como su aplicación práctica.</p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251110202635635AVW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se detallan las competencias específicas y sus descriptores operativos asociados así como los criterios de evaluación que se emplearan en esta situación de aprendizaje.</p>\n<p><strong>Competencia específica 1</strong><br /><em>Identificar y proponer problemas tecnologicos con iniciativa y creatividad, estudiando las necesidades de su entorno proximo y aplicando estrategias y procesos colaborativos e iterativos relativos a proyectos, para idear y planificar soluciones de manera eficiente, accesible, sostenible e innovadora.</em><br /></p>\n<p><strong>Descriptores operativos:</strong> STEM1 · STEM2 · CD1 · CD3 · CPSAA3 · CPSAA4 · CE1 · CE3</p>\n<p>Esta competencia constituye el eje central de la situación de aprendizaje. Permite al alumnado desarrollar el razonamiento lógico-matemático aplicado a fluidos (STEM1 y STEM2), planificar soluciones técnicas de forma colaborativa e iterativa (CPSAA3 y CPSAA4), utilizar herramientas digitales de simulación de forma critica (CD1 y CD3) y actuar con iniciativa emprendedora al identificar necesidades industriales reales (CE1 y CE3).</p>\n<p><strong>Criterios de evaluación trabajados:</strong></p>\n<p><strong>1.1.</strong> Idear y planificar soluciones tecnológicas emprendedoras que generen un valor para la comunidad a partir de la observación y el análisis del entorno mas cercano, estudiando sus necesidades, requisitos y posibilidades de mejora.</p>\n<ul>\n<li>Núcleo fundamental: El alumnado identifica una necesidad industrial real (p. ej. automatizar el cierre de una compuerta, controlar la velocidad de una cinta transportadora) y formula un reto técnico concreto que orientará todo el proceso de diseño del circuito.</li>\n<li>Evidencia observable: la elección y descripción de la aplicación industrial del proyecto y la memoria técnica (necesidad detectada).</li>\n</ul>\n<p><strong>1.2. </strong>Aplicar con iniciativa estrategias colaborativas de gestión de proyectos con una perspectiva interdisciplinar y siguiendo un proceso iterativo de validación, desde la fase de ideación hasta la difusión de la solución.</p>\n<ul>\n<li>Núcleo fundamental: El ciclo diseño-simulación-error-corrección de la fase simulación materializa exactamente el proceso iterativo descrito. El diario de equipo documenta cada iteración.</li>\n<li>Evidencia observable: el diario de equipo con el registro de iteraciones y las capturas del proceso en la simulación.</li>\n</ul>\n<p><strong>1.3. </strong>Abordar la gestión del proyecto de forma creativa, aplicando estrategias y técnicas colaborativas adecuadas, así como metodos de investigación en la ideación de soluciones lo más eficientes, accesibles e innovadoras posibles.</p>\n<ul>\n<li>Núcleo fundamental: La elección de la modalidad del Producto (video, podcast o breakout) refleja la creatividad del equipo en la comunicación de soluciones técnicas. La infografía requiere sintetizar y visualizar conceptos complejos de forma original.</li>\n<li>Evidencia observable: calidad e innovación de la infografía) y del recurso educativo creativo.</li>\n</ul>\n<p><strong>Competencia específica 2 </strong><br /><em>Aplicar de forma apropiada y segura distintas técnicas y conocimientos interdisciplinares, utilizando procedimientos y recursos tecnológicos y analizando el ciclo de vida de productos, para fabricar soluciones tecnológicas accesibles y sostenibles que den respuesta a necesidades planteadas.</em><br /></p>\n<p><strong>Descriptores operativos:</strong> STEM2 · STEM5 · CD2 · CPSAA4 · CC4 · CCEC4</p>\n<p>Esta competencia se concreta en la aplicación de conocimientos físicos (Boyle-Mariotte, Pascal, ley de la continuidad) y técnicos (simbología, tipos de válvulas, cálculos de fuerza) al diseño de soluciones neumáticas o hidráulicas reales. Implica analizar el ciclo de vida del producto (STEM5), usar herramientas de diseño y simulación (CD2 y CPSAA4) y valorar el impacto ecosocial de las decisiones técnicas (CC4 y CCEC4).</p>\n<p><strong>Criterios de evaluación trabajados:</strong></p>\n<p><strong>2.1.</strong> Analizar el diseño de un producto que de respuesta a una necesidad planteada, evaluando su demanda, evolución y previsión de fin de ciclo de vida con un criterio ético, responsable e inclusivo.</p>\n<ul>\n<li>Núcleo fundamental: La memoria técnica (valoración de sostenibilidad) y el debate sobre el impacto ambiental de los aceites hidráulicos son las evidencias principales de este criterio.</li>\n<li>Conexión práctica: el alumnado compara la huella energética y ambiental de una solución neumática vs. hidráulica para su aplicación, argumentando la elección con criterios de eficiencia y sostenibilidad.</li>\n</ul>\n<p><strong>2.2</strong>. Fabricar productos y soluciones tecnológicas, aplicando herramientas de diseño asistido, técnicas de elaboración manual, mecánica y digital y utilizando los materiales y recursos mecánicos, eléctricos, electrónicos y digitales adecuados.</p>\n<ul>\n<li>Núcleo fundamental: El circuito simulado junto con la memoria técnica es la evidencia principal. El alumnado selecciona componentes, los conecta con simbología correcta y verifica el funcionamiento mediante simulación digital.</li>\n<li>Componentes trabajados: compresor, deposito, unidad de tratamiento, cilindros S/E y D/E, válvulas distribuidoras 3/2 y 5/2, válvulas lógicas (AND, OR), antirretorno, reguladora de presión y estranguladora.</li>\n</ul>\n<p><strong>Competencia específica 3</strong><br /><em>Expresar, comunicar y difundir ideas, propuestas o soluciones tecnológicas en diferentes foros de manera efectiva, usando un lenguaje inclusivo y no sexista, empleando los recursos disponibles y aplicando los elementos y técnicas necesarias, para intercambiar la información de manera responsable y fomentar el trabajo en equipo.</em><br /></p>\n<p><strong>Descriptores operativos:</strong> CCL1 · STEM4 · CD3 · CPSAA3 · CCEC3</p>\n<p>Esta competencia se desarrolla en la dimensión comunicativa de la situación de aprendizaje: el alumnado no solo diseña el circuito, sino que debe saber explicarlo con precisión y claridad ante una audiencia técnica (el comité TecnoFluid) y ante una audiencia no especializada (mediante la infografía y el recurso creativo). Integra la expresión oral (CCL1 y STEM4), el uso de herramientas digitales de comunicación (CD3), el trabajo colaborativo (CPSAA3) y la creatividad expresiva (CCEC3).</p>\n<p><strong>Criterios de evaluación trabajados:</strong></p>\n<p><strong>3.1.</strong> Intercambiar información y fomentar el trabajo en equipo de manera asertiva, empleando las herramientas digitales adecuadas junto con el vocabulario técnico, símbolos y esquemas de sistemas tecnológicos apropiados.</p>\n<ul>\n<li>Núcleo fundamental: El glosario técnico del Cuaderno del Ingeniero/a, la revisión de equipos y la simbología correcta en el circuito simulado son las evidencias principales.</li>\n<li>Vocabulario mínimo exigido: presión manométrica, presión absoluta, caudal, válvula distribuidora, cilindro de doble efecto, vías, posiciones, pilotaje, simbología ISO/CETOP.</li>\n</ul>\n<p></p>\n<p><strong></strong></p>\n<p><strong>3.2.</strong> Presentar y difundir las propuestas o soluciones tecnológicas de manera efectiva, empleando la entonación, expresión, gestión del tiempo y adaptación adecuada del discurso, así como un lenguaje inclusivo y no sexista.</p>\n<ul>\n<li>Núcleo fundamental: La exposición oral ante el comité TecnoFluid es la evidencia principal. La infografía y el recurso educativo creativo son evidencias complementarias de difusión para audiencias distintas.</li>\n<li>Adaptación del discurso: el alumnado debe demostrar que sabe explicar el mismo circuito de forma técnica ante el comité y de forma divulgativa ante una persona sin formación (infografía o podcast).</li>\n</ul>\n<p><strong>Competencia específica 4</strong><br /><em>Desarrollar soluciones automatizadas a problemas planteados, aplicando los conocimientos necesarios e incorporando tecnologías emergentes, para diseñar y construir sistemas de control programables y robóticos.</em></p>\n<p><strong>Descriptores operativos:</strong> CP2 · STEM1 · STEM3 · CD5 · CPSAA5 · CE3</p>\n<p>Los circuitos neumáticos e hidráulicos son el paradigma clásico de los sistemas de control automático: sensores (finales de carrera, palpadores), lógica de control (válvulas AND, OR, distribuidoras), actuadores (cilindros) y retroalimentación (control de posición). Comprenderlos es la base del pensamiento de automatización y robótica (STEM1 y STEM3). La simulación digital (CD5) y la resolución autónoma de problemas (CPSAA5) completan el perfil.</p>\n<p><strong>Criterios de evaluación trabajados:</strong></p>\n<p><strong>4.1.</strong> Diseñar, construir, controlar o simular sistemas automáticos programables y robots que sean capaces de realizar tareas de forma autónoma, aplicando conocimientos de mecánica, electrónica, neumática y componentes de los sistemas de control, así como otros conocimientos interdisciplinares.</p>\n<ul>\n<li>Núcleo fundamental: El diseño y la simulación del circuito es la evidencia principal y directa de este criterio. Incluye la selección de componentes neumáticos, la simbología normalizada, los cálculos de presión y fuerza, y la verificación del funcionamiento automático del sistema.</li>\n<li>Sistemas de control trabajados: válvulas de pilotaje manual y neumático, finales de carrera mecánicos, válvulas de simultaneidad para seguridad, regulación de velocidad con estranguladora.</li>\n<li>Conexión con robótica: los mismos principios (sensor -> lógica -> actuador -> retroalimentación) que rigen el circuito neumático son la base de cualquier sistema robótico industrial. La neumática es la primera aproximación tangible a la automatización.</li>\n</ul>\n<p>Estas competencias y criterios garantizan un desarrollo competencial coherente, progresivo y evaluable, centrado específicamente en el conocimiento técnico del funcionamiento de sistemas hidráulicos y neumáticos, así como su aplicación práctica.</p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnj1fny3-txpqgsd4a</odePageId>
+      <odeBlockId>20260325165351YPAMVF</odeBlockId>
+      <blockName>SABERES BÁSICOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny3-txpqgsd4a</odePageId>
+          <odeBlockId>20260325165351YPAMVF</odeBlockId>
+          <odeIdeviceId>20251111174910832C47</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje "¡A toda presión!" se relaciona principalmente con los siguientes saberes básicos del currículo de Tecnología de 4º de ESO en el Principado de Asturias:</p>
+<p><strong>BLOQUE A: Proceso de Resolución de Problemas</strong><br /><strong></strong></p>
+<p><em>"Estrategias de gestión de proyectos colaborativos y técnicas de resolución de problemas iterativas"</em></p>
+<p>Este saber básico constituye el Aprendizaje Basado en Proyectos (ABP) con proceso iterativo de validación es la metodología principal de toda la situación de aprendizaje. El alumnado trabaja:</p>
+<ul>
+<li> El reto TecnoFluid S.A. impone restricciones reales (cliente, requisitos, plazo) que obligan al equipo a planificar, distribuir tareas y tomar decisiones técnicas fundamentadas.</li>
+<li>El ciclo iterativo diseño-simulación-error-corrección en el simulador es la materialización práctica de las técnicas de gestión de proyectos iterativas (Scrum, design thinking).</li>
+<li>Los roles rotativos del equipo (técnico/a, coordinador/a, documentalista, portavoz) modelan una estructura de gestión profesional real, reproduciendo la organización de un equipo de ingeniería.</li>
+</ul>
+<p><em>"Ciclo de vida de un producto y sus fases. Análisis sencillos. Obsolescencia programada."</em></p>
+<p>Este saber básico constituye la conexión con la sostenibilidad. La evaluación de la solución técnica no se limita a su funcionamiento, sino que incluye su impacto ambiental y su ciclo de vida completo. El alumnado trabaja de forma exhaustiva:</p>
+<ul>
+<li>Ciclo de vida del fluido: el aceite hidráulico tiene un ciclo de extracción (petróleo), refinado, uso industrial y residuo peligroso que el alumnado analiza y documenta en la memoria técnica.</li>
+<li>Comparativa de eficiencia: el alumnado compara el consumo energético de un sistema neumático (eficiencia 20-30%) vs. hidráulico (eficiencia 70-80%) y argumenta la elección de su proyecto con criterios de sostenibilidad real.</li>
+<li>La infografía incluye obligatoriamente un elemento visual relacionado con los ODS, conectando el diseño técnico con la responsabilidad ecosocial.</li>
+</ul>
+<p><em>"Herramientas de diseño asistido por computador y técnicas de fabricación digital."</em></p>
+<p>Este saber básico constituye la conexión con la fabricación digital.  El simulador es el equivalente de un CAD especializado en neumática: permite diseñaar, verificar y optimizar sin riesgo ni coste material. El alumnado trabaja:</p>
+<ul>
+<li> Simulador como CAD neumático: el alumnado aprende a usar una herramienta de diseño asistido real, la misma que emplean los técnicos de automatización en la industria, para diseñar y simular su circuito.</li>
+<li>El diario de simulación documenta el proceso de diseño iterativo: boceto inicial, primer error, corrección aplicada, simulación final funcional.</li>
+</ul>
+<p><em>"Presentación y difusión del proyecto. Comunicación efectiva con lenguaje inclusivo y libre de estereotipos"</em></p>
+<p>Este saber básico constituye los productos comunicativos. La situación de aprendizaje exige tres modalidades comunicativas distintas para la misma solución técnica, desarrollando la competencia de adaptación del discurso al público. El alumnado trabaja:</p>
+<ul>
+<li>Comunicación técnica: exposición oral ante el comité TecnoFluid con vocabulario normalizado, simbología y justificación técnica de cada decisión de diseño.</li>
+<li>Comunicación divulgativa: infografía dirigida a cualquier persona sin formación técnica; requiere sintetizar, simplificar sin distorsionar y apelar visualmente al lector.</li>
+<li>Comunicación creativa: video, podcast o breakout como recurso educativo reutilizable por otros grupos; el alumnado actúa como creador de contenido educativo real.</li>
+</ul>
+<p><strong>BLOQUE B: Operadores Tecnológicos</strong><br /><br /><em>"Neumática básica. Circuitos. Elementos mecánicos, electrónicos y neumáticos aplicados a la robótica"</em></p>
+<p>Este saber básico constituye el núcleo central de toda la situación de aprendizaje. El alumnado trabaja de forma exhaustiva:</p>
+<ul>
+<li>Principios físicos: el alumnado aplica las leyes de Pascal y Boyle-Mariotte y la ley de la continuidad para calcular presiones, fuerzas y caudales en situaciones reales.</li>
+<li>Componentes: identifica, nombra con simbología ISO/CETOP y comprende la función de compresor, depósito, unidad de tratamiento, cilindros S/E y D/E, y todas las válvulas del tema.</li>
+<li>Circuitos: analiza circuitos neumáticos dados aplicando el protocolo de tres pasos (nombrar -> estado inicial -> funcionamiento) y diseña circuitos originales para automatizar tareas reales.</li>
+<li>Conexión con la robótica: la estructura sensor-lógica-actuador del circuito neumático es el modelo conceptual de cualquier sistema robótico industrial, preparando al alumnado para el bloque de automatización y robótica.</li>
+</ul>
+<p><em>"Electrónica analógica y digital. Componentes básicos, simbología y análisis de circuitos"</em></p>
+<p>Este saber básico constituye la lógica de las válvulas AND y OR neumáticas es idéntica a la de las puertas lógicas electrónicos. Este paralelismo refuerza la comprensión de ambos bloques.</p>
+<ul>
+<li>Simbología: la normativa ISO/CETOP que rige los símbolos neumáticos tiene la misma lógica estructural que la simbología de los circuitos electrónicos (normalización internacional, lectura de esquemas, interpretación de flujos).</li>
+<li>Lógica AND/OR: la válvula de simultaneidad (AND) y la válvula selectora de circuito (OR) son operadores lógicos implementados mediante fluidos a presión, conectando directamente con la electrónica digital básica.</li>
+<li>Pilotaje eléctrico: las electroválvulas (accionamiento electrico de valvulas neumaticas) son el puente natural entre la electrónica de control y los actuadores neumáticos en la industria moderna.</li>
+</ul>
+<p><strong>BLOQUE C: Pensamiento computacional, Automatización y Robótica</strong></p>
+<p><em>"Componentes de sistemas de control programado: controladores, sensores y actuadores. Trabajo con simuladores informáticos."</em></p>
+<p>Este saber básico constituye el primer paso hacia la automatización industrial. Un circuito neumático es un sistema de control: tiene sensores (finales de carrera), lógica (válvulas) y actuadores (cilindros). Es la introducción más tangible a la automatización. El alumnado trabaja:</p>
+<ul>
+<li>Sensores en neumática: los finales de carrera mecánicos (inicio y fin de carrera del vástago) y los rodillos escamoteables son los sensores del sistema. El alumnado los identifica y comprende su papel en el control automático del movimiento.</li>
+<li>Lógica de control: las válvulas distribuidoras realizan la lógica de control del sistema (si se pulsa el botón y la mampara esta cerrada, entonces avanza el cilindro). Esta lógica condicional es idéntica a la de los sistemas programados.</li>
+<li>Simuladores: El alumnado verifica el funcionamiento de su sistema diseñado antes de cualquier implementación física.
+<p></p>
+</li>
+</ul>
+<p><em>"Resolución de problemas por descomposición, secuenciación, formulación y verificación de hipótesis."</em></p>
+<p>Este saber básico constituye el diagnóstico como pensamiento computacional. El protocolo de análisis de circuitos neumáticos es pensamiento computacional aplicado: descomponer, secuenciar, hipotetizar, verificar. El alumnado trabaja:</p>
+<p>El proceso de diagnostico de fallos en circuitos neumáticos aplica pensamiento computacional en cada paso:</p>
+<ul>
+<li> Descomponer: identificar todos los elementos del circuito y su función (nombrar componentes).</li>
+<li>Secuenciar: describir el estado inicial del circuito antes de actuar sobre el.</li>
+<li>Formular hipótesis: ante los síntomas del fallo, predecir que componente o conexión es responsable.</li>
+<li>Verificar: simular el circuito con y sin el fallo en el simulador para confirmar o descartar la hipótesis.</li>
+<li>Proponer solución: modificar el circuito, simular de nuevo y documentar la corrección en el Cuaderno del Ingeniero/a.</li>
+</ul>
+<p><strong>BLOQUE D: Tecnología Sostenible</strong></p>
+<p><em>"Sostenibilidad y accesibilidad en la selección de materiales y diseño de procesos y sistemas tecnológicos."</em></p>
+<p>Este saber básico constituye la evaluación crítica de la solución.  El diseño técnico no es completo si no incorpora una reflexión honesta sobre su sostenibilidad ambiental y social. El alumnado trabaja:</p>
+<ul>
+<li>Selección de fluido: la elección entre aire comprimido (neumática) y aceite mineral (oleohidráulica) tiene implicaciones ambientales directas que el alumnado analiza con criterios de sostenibilidad reales.</li>
+<li>Eficiencia energética: los compresores neumáticos tienen una eficiencia energética del 20-30%; el alumnado reflexiona sobre como diseñar circuitos que minimicen el consumo (válvulas de cierre rápido, depósitos de tamaño adecuado).</li>
+<li>Residuos y gestión: el aceite hidraulico usado es un residuo especial; el alumnado aprende los protocolos de gestión y los conecta con la economia circular y los ODS 12 y 13.</li>
+<li>Accesibilidad universal: los sistemas de automatización neumática mejoran la accesibilidad en entornos industriales (puertas automáticas, sistemas de elevación), conectando con el ODS 10 (reducción de desigualdades).</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251111174910832C47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje \"¡A toda presión!\" se relaciona principalmente con los siguientes saberes básicos del currículo de Tecnología de 4º de ESO en el Principado de Asturias:</p>\n<p><strong>BLOQUE A: Proceso de Resolución de Problemas</strong><br /><strong></strong></p>\n<p><em>\"Estrategias de gestión de proyectos colaborativos y técnicas de resolución de problemas iterativas\"</em></p>\n<p>Este saber básico constituye el Aprendizaje Basado en Proyectos (ABP) con proceso iterativo de validación es la metodología principal de toda la situación de aprendizaje. El alumnado trabaja:</p>\n<ul>\n<li> El reto TecnoFluid S.A. impone restricciones reales (cliente, requisitos, plazo) que obligan al equipo a planificar, distribuir tareas y tomar decisiones técnicas fundamentadas.</li>\n<li>El ciclo iterativo diseño-simulación-error-corrección en el simulador es la materialización práctica de las técnicas de gestión de proyectos iterativas (Scrum, design thinking).</li>\n<li>Los roles rotativos del equipo (técnico/a, coordinador/a, documentalista, portavoz) modelan una estructura de gestión profesional real, reproduciendo la organización de un equipo de ingeniería.</li>\n</ul>\n<p><em>\"Ciclo de vida de un producto y sus fases. Análisis sencillos. Obsolescencia programada.\"</em></p>\n<p>Este saber básico constituye la conexión con la sostenibilidad. La evaluación de la solución técnica no se limita a su funcionamiento, sino que incluye su impacto ambiental y su ciclo de vida completo. El alumnado trabaja de forma exhaustiva:</p>\n<ul>\n<li>Ciclo de vida del fluido: el aceite hidráulico tiene un ciclo de extracción (petróleo), refinado, uso industrial y residuo peligroso que el alumnado analiza y documenta en la memoria técnica.</li>\n<li>Comparativa de eficiencia: el alumnado compara el consumo energético de un sistema neumático (eficiencia 20-30%) vs. hidráulico (eficiencia 70-80%) y argumenta la elección de su proyecto con criterios de sostenibilidad real.</li>\n<li>La infografía incluye obligatoriamente un elemento visual relacionado con los ODS, conectando el diseño técnico con la responsabilidad ecosocial.</li>\n</ul>\n<p><em>\"Herramientas de diseño asistido por computador y técnicas de fabricación digital.\"</em></p>\n<p>Este saber básico constituye la conexión con la fabricación digital.  El simulador es el equivalente de un CAD especializado en neumática: permite diseñaar, verificar y optimizar sin riesgo ni coste material. El alumnado trabaja:</p>\n<ul>\n<li> Simulador como CAD neumático: el alumnado aprende a usar una herramienta de diseño asistido real, la misma que emplean los técnicos de automatización en la industria, para diseñar y simular su circuito.</li>\n<li>El diario de simulación documenta el proceso de diseño iterativo: boceto inicial, primer error, corrección aplicada, simulación final funcional.</li>\n</ul>\n<p><em>\"Presentación y difusión del proyecto. Comunicación efectiva con lenguaje inclusivo y libre de estereotipos\"</em></p>\n<p>Este saber básico constituye los productos comunicativos. La situación de aprendizaje exige tres modalidades comunicativas distintas para la misma solución técnica, desarrollando la competencia de adaptación del discurso al público. El alumnado trabaja:</p>\n<ul>\n<li>Comunicación técnica: exposición oral ante el comité TecnoFluid con vocabulario normalizado, simbología y justificación técnica de cada decisión de diseño.</li>\n<li>Comunicación divulgativa: infografía dirigida a cualquier persona sin formación técnica; requiere sintetizar, simplificar sin distorsionar y apelar visualmente al lector.</li>\n<li>Comunicación creativa: video, podcast o breakout como recurso educativo reutilizable por otros grupos; el alumnado actúa como creador de contenido educativo real.</li>\n</ul>\n<p><strong>BLOQUE B: Operadores Tecnológicos</strong><br /><br /><em>\"Neumática básica. Circuitos. Elementos mecánicos, electrónicos y neumáticos aplicados a la robótica\"</em></p>\n<p>Este saber básico constituye el núcleo central de toda la situación de aprendizaje. El alumnado trabaja de forma exhaustiva:</p>\n<ul>\n<li>Principios físicos: el alumnado aplica las leyes de Pascal y Boyle-Mariotte y la ley de la continuidad para calcular presiones, fuerzas y caudales en situaciones reales.</li>\n<li>Componentes: identifica, nombra con simbología ISO/CETOP y comprende la función de compresor, depósito, unidad de tratamiento, cilindros S/E y D/E, y todas las válvulas del tema.</li>\n<li>Circuitos: analiza circuitos neumáticos dados aplicando el protocolo de tres pasos (nombrar -> estado inicial -> funcionamiento) y diseña circuitos originales para automatizar tareas reales.</li>\n<li>Conexión con la robótica: la estructura sensor-lógica-actuador del circuito neumático es el modelo conceptual de cualquier sistema robótico industrial, preparando al alumnado para el bloque de automatización y robótica.</li>\n</ul>\n<p><em>\"Electrónica analógica y digital. Componentes básicos, simbología y análisis de circuitos\"</em></p>\n<p>Este saber básico constituye la lógica de las válvulas AND y OR neumáticas es idéntica a la de las puertas lógicas electrónicos. Este paralelismo refuerza la comprensión de ambos bloques.</p>\n<ul>\n<li>Simbología: la normativa ISO/CETOP que rige los símbolos neumáticos tiene la misma lógica estructural que la simbología de los circuitos electrónicos (normalización internacional, lectura de esquemas, interpretación de flujos).</li>\n<li>Lógica AND/OR: la válvula de simultaneidad (AND) y la válvula selectora de circuito (OR) son operadores lógicos implementados mediante fluidos a presión, conectando directamente con la electrónica digital básica.</li>\n<li>Pilotaje eléctrico: las electroválvulas (accionamiento electrico de valvulas neumaticas) son el puente natural entre la electrónica de control y los actuadores neumáticos en la industria moderna.</li>\n</ul>\n<p><strong>BLOQUE C: Pensamiento computacional, Automatización y Robótica</strong></p>\n<p><em>\"Componentes de sistemas de control programado: controladores, sensores y actuadores. Trabajo con simuladores informáticos.\"</em></p>\n<p>Este saber básico constituye el primer paso hacia la automatización industrial. Un circuito neumático es un sistema de control: tiene sensores (finales de carrera), lógica (válvulas) y actuadores (cilindros). Es la introducción más tangible a la automatización. El alumnado trabaja:</p>\n<ul>\n<li>Sensores en neumática: los finales de carrera mecánicos (inicio y fin de carrera del vástago) y los rodillos escamoteables son los sensores del sistema. El alumnado los identifica y comprende su papel en el control automático del movimiento.</li>\n<li>Lógica de control: las válvulas distribuidoras realizan la lógica de control del sistema (si se pulsa el botón y la mampara esta cerrada, entonces avanza el cilindro). Esta lógica condicional es idéntica a la de los sistemas programados.</li>\n<li>Simuladores: El alumnado verifica el funcionamiento de su sistema diseñado antes de cualquier implementación física.\n<p></p>\n</li>\n</ul>\n<p><em>\"Resolución de problemas por descomposición, secuenciación, formulación y verificación de hipótesis.\"</em></p>\n<p>Este saber básico constituye el diagnóstico como pensamiento computacional. El protocolo de análisis de circuitos neumáticos es pensamiento computacional aplicado: descomponer, secuenciar, hipotetizar, verificar. El alumnado trabaja:</p>\n<p>El proceso de diagnostico de fallos en circuitos neumáticos aplica pensamiento computacional en cada paso:</p>\n<ul>\n<li> Descomponer: identificar todos los elementos del circuito y su función (nombrar componentes).</li>\n<li>Secuenciar: describir el estado inicial del circuito antes de actuar sobre el.</li>\n<li>Formular hipótesis: ante los síntomas del fallo, predecir que componente o conexión es responsable.</li>\n<li>Verificar: simular el circuito con y sin el fallo en el simulador para confirmar o descartar la hipótesis.</li>\n<li>Proponer solución: modificar el circuito, simular de nuevo y documentar la corrección en el Cuaderno del Ingeniero/a.</li>\n</ul>\n<p><strong>BLOQUE D: Tecnología Sostenible</strong></p>\n<p><em>\"Sostenibilidad y accesibilidad en la selección de materiales y diseño de procesos y sistemas tecnológicos.\"</em></p>\n<p>Este saber básico constituye la evaluación crítica de la solución.  El diseño técnico no es completo si no incorpora una reflexión honesta sobre su sostenibilidad ambiental y social. El alumnado trabaja:</p>\n<ul>\n<li>Selección de fluido: la elección entre aire comprimido (neumática) y aceite mineral (oleohidráulica) tiene implicaciones ambientales directas que el alumnado analiza con criterios de sostenibilidad reales.</li>\n<li>Eficiencia energética: los compresores neumáticos tienen una eficiencia energética del 20-30%; el alumnado reflexiona sobre como diseñar circuitos que minimicen el consumo (válvulas de cierre rápido, depósitos de tamaño adecuado).</li>\n<li>Residuos y gestión: el aceite hidraulico usado es un residuo especial; el alumnado aprende los protocolos de gestión y los conecta con la economia circular y los ODS 12 y 13.</li>\n<li>Accesibilidad universal: los sistemas de automatización neumática mejoran la accesibilidad en entornos industriales (puertas automáticas, sistemas de elevación), conectando con el ODS 10 (reducción de desigualdades).</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny5-r6963zj18</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny5-r6963zj18</odePageId>
+      <odeBlockId>20260325165351NQXRZN</odeBlockId>
+      <blockName>METODOLOGÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny5-r6963zj18</odePageId>
+          <odeBlockId>20260325165351NQXRZN</odeBlockId>
+          <odeIdeviceId>20251111190356540G3T</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de la situación de aprendizaje <strong>"A toda presión</strong>" se implementarán las siguientes metodologías activas que sitúan al alumnado como protagonista de su propio aprendizaje:</p>
+<p><strong>1. Aprendizaje Basado en Problemas (ABP)</strong><br /></p>
+<p>El hilo conductor será el reto TecnoFluid S.A.: el alumnado asume el rol de equipo de ingeniería junior que debe diseñar y simular un circuito neumático o hidráulico que automatice una tarea industrial real. El problema concreto (la necesidad de automatizar) es el punto de partida que moviliza todos los contenidos.</p>
+<ul>
+<li>El problema es real y abierto: no tiene una solución única. Cada equipo puede elegir una aplicación industrial distinta (puertas automáticas, prensas, cintas transportadoras, sistemas de elevación), lo que impide el plagio y fomenta la responsabilidad técnica.</li>
+<li>El proceso tiene fases naturales que reproducen el método de diseño industrial: detección de la necesidad, investigación de soluciones, diseño, simulación iterativa, documentación técnica y presentación ante el cliente.</li>
+<li>Esta metodología favorece el pensamiento crítico, la toma de decisiones técnicas argumentadas y la aplicación práctica de los principios físicos (Pascal, Boyle-Mariotte, continuidad) en un contexto real y significativo.</li>
+</ul>
+<p><strong>2. Aprendizaje Cooperativo</strong><br /></p>
+<p>El alumnado trabaja en equipos heterogéneos de 3-4 estudiantes con roles rotativos semanales. La interdependencia positiva se garantiza porque cada miembro tiene una responsabilidad imprescindible para el éxito del proyecto común: sin el trabajo del técnico/a no hay circuito, sin el documentalista no hay cuaderno, sin el portavoz no hay exposición.</p>
+<ul>
+<li>Roles rotativos: técnico/a de sistemas, coordinador/a, documentalista y portavoz. La rotación garantiza que todo el alumnado experimente todas las responsabilidades y no se produzcan jerarquias fijas.</li>
+<li>Técnica puzzle aplicada: una persona del equipo investiga el cilindro S/E, otra el D/E, se explican mutuamente y luego integran el conocimiento en el diseño del proyecto común.</li>
+<li>Heterogeneidad planificada por el/la docente: equilibrio de género, nivel competencial y estilos de aprendizaje, con especial atención a la reducción de la brecha de genero en STEM.</li>
+</ul>
+<p><strong>3. Gamificación</strong><br />Se implementa un sistema de niveles de ingeniero/a (Aprendiz, Junior, Senior, Experto/a) que el alumnado va superando al completar hitos clave de la situación de aprendizaje. Un ranking cooperativo de equipos motiva la participación activa sin fomentar competitividad negativa, ya que los puntos se ganan por calidad del trabajo y colaboración, no por velocidad.<br /></p>
+<p><strong>Insignias digitales desbloqueables:</strong></p>
+<ul>
+<li>Maestro/a de la presión: Resolver correctamente 5 ejercicios de cálculo de presión, fuerza y caudal.</li>
+<li>Detective de circuitos: Analizar y explicar correctamente un circuito neumático dado aplicando el protocolo de tres pasos.</li>
+<li>Técnico/a de seguridad: Diseñar un circuito con válvula AND o antirretorno correctamente justificada.</li>
+<li>Ingeniero/a Picuino: Conseguir una simulación completamente funcional en Picuino.</li>
+<li>Embajador/a sostenible: Incluir una valoración de sostenibilidad fundamentada con datos reales en la memoria técnica.</li>
+<li>Comunicador/a técnico/a: Obtener una puntuación de 3 o superior en la rúbrica de exposición oral del comité TecnoFluid.</li>
+</ul>
+<p><strong>4. Flipped Classroom (Aula invertida)</strong><br /></p>
+<p>Antes de las sesiones 1, 2 y 3, el alumnado visiona en casa videos cortos de 10-15 minutos sobre los contenidos teóricos (historia de la hidráulica, principios físicos, elementos del circuito). El tiempo de clase se dedica integra a actividades prácticas, resolución de problemas, simulación y trabajo cooperativo.</p>
+<ul>
+<li>Videos preparados en Edpuzzle con preguntas intercaladas: el docente puede verificar la comprensión previa antes de llegar al aula y detectar conceptos que necesitan refuerzo.</li>
+<li>Permite personalizar el ritmo: el alumnado que necesita más tiempo puede revisar el video las veces que sea necesario; quien tiene mayor nivel puede acceder a materiales de ampliación.<br /></li>
+</ul>
+<p><strong>5. Learning by Doing (Aprender haciendo)</strong><br /></p>
+<p>La metodología se fundamenta en la experimentación directa: el alumnado no solo lee sobre neumática, sino que manipula símbolos en Picuino, conecta componentes virtuales, observa como el fluido circula, detecta por que el cilindro no avanza y lo corrige. El error forma parte del aprendizaje y se documenta como evidencia de progreso.</p>
+<ul>
+<li>Actividad manipulativa con jeringas: el alumnado comprime aire y mide presión y volumen reales, vivenciando la ley de Boyle-Mariotte antes de formalizarla matemáticamente.</li>
+<li>Juego de tarjetas de simbología: emparejamiento físico o digital de símbolo, nombre y función, con el cuerpo activo en el proceso de aprendizaje.</li>
+<li>Taller Picuino: el ciclo diseño-simulación-error-corrección convierte el aprendizaje técnico en una experiencia de ingeniería real. Los errores de conexión, los cortocircuitos de fluido y los fallos lógicos son oportunidades de aprendizaje, no fracasos.<br /></li>
+</ul>
+<p><strong>6. Rutinas de pensamiento visible</strong></p>
+<p>Se incorporan rutinas de pensamiento visible a lo largo de toda la situación de aprendizaje para hacer explícito el razonamiento técnico del alumnado y organizarlo de forma progresiva. Estas rutinas ayudan a conectar los nuevos aprendizajes con los conocimientos previos y a evaluar el cambio conceptual. De este modo, se trabajan rutinas como "Veo-Pienso-Me pregunto" al observar componentes, "Compara y contrasta" entre los distintos tipos de circuitos neumáticos e hidráulicos, y "Antes pensaba... Ahora pienso". Estas rutinas hacen explícito el razonamiento y ayudan a organizar el pensamiento.</p>
+<p><strong>7. Evaluación formativa continua</strong></p>
+<p>La evaluación no es solo un instrumento de calificación final, sino una herramienta de aprendizaje integrada en cada sesión. El docente ajusta el ritmo de la situación de aprendizaje en función de los resultados de la evaluación formativa continua.</p>
+<ul>
+<li>Dianas de autoevaluación al inicio y al final de la situación de aprendizaje: permiten al alumnado ver su propio progreso de forma visual.</li>
+<li>Rúbricas compartidas desde el inicio de la situación de aprendizaje: el alumnado conoce exactamente los criterios de evaluación de cada producto antes de empezar a elaborarlo, lo que convierte la rúbrica en guía de aprendizaje.</li>
+<li>Cada equipo revisa el circuito de otro equipo aplicando una lista de cotejo técnico. La retroalimentación entre iguales es a menudo más efectiva que la del docente.</li>
+<li>Kahoot/Quizizz al final de algunas sesiones: evaluación gamificada inmediata que permite al docente detectar conceptos no consolidados y reajustar el inicio de la sesión siguiente.</li>
+<li>Portfolio-diario semanal (Cuaderno del Ingeniero/a): el docente revisa y hace anotaciones de retroalimentación al final de cada semana, creando un diálogo formativo continuo.</li>
+</ul>
+<p><strong>8. Diseño Universal para el Aprendizaje (DUA)</strong><br />Para garantizar inclusión:<strong> múltiples formas de representación </strong>(vídeos, infografías, manipulación física, simulaciones), múltiples formas de expresión (presentaciones, informes, videos, ejercicios, infografía, expresión oral, podcast o breakout) y múltiples formas de implicación (diferentes niveles de dificultad, reto gamificado, roles adaptados a fortalezas, conexión con industria asturiana).</p>
+<p>Estas metodologías transforman el aula en un espacio de investigación y experimentación, donde el alumnado desarrolla saberes técnicos y competencias transversales esenciales para el siglo XXI.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20251111190356540G3T","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de la situación de aprendizaje <strong>\"A toda presión</strong>\" se implementarán las siguientes metodologías activas que sitúan al alumnado como protagonista de su propio aprendizaje:</p>\n<p><strong>1. Aprendizaje Basado en Problemas (ABP)</strong><br /></p>\n<p>El hilo conductor será el reto TecnoFluid S.A.: el alumnado asume el rol de equipo de ingeniería junior que debe diseñar y simular un circuito neumático o hidráulico que automatice una tarea industrial real. El problema concreto (la necesidad de automatizar) es el punto de partida que moviliza todos los contenidos.</p>\n<ul>\n<li>El problema es real y abierto: no tiene una solución única. Cada equipo puede elegir una aplicación industrial distinta (puertas automáticas, prensas, cintas transportadoras, sistemas de elevación), lo que impide el plagio y fomenta la responsabilidad técnica.</li>\n<li>El proceso tiene fases naturales que reproducen el método de diseño industrial: detección de la necesidad, investigación de soluciones, diseño, simulación iterativa, documentación técnica y presentación ante el cliente.</li>\n<li>Esta metodología favorece el pensamiento crítico, la toma de decisiones técnicas argumentadas y la aplicación práctica de los principios físicos (Pascal, Boyle-Mariotte, continuidad) en un contexto real y significativo.</li>\n</ul>\n<p><strong>2. Aprendizaje Cooperativo</strong><br /></p>\n<p>El alumnado trabaja en equipos heterogéneos de 3-4 estudiantes con roles rotativos semanales. La interdependencia positiva se garantiza porque cada miembro tiene una responsabilidad imprescindible para el éxito del proyecto común: sin el trabajo del técnico/a no hay circuito, sin el documentalista no hay cuaderno, sin el portavoz no hay exposición.</p>\n<ul>\n<li>Roles rotativos: técnico/a de sistemas, coordinador/a, documentalista y portavoz. La rotación garantiza que todo el alumnado experimente todas las responsabilidades y no se produzcan jerarquias fijas.</li>\n<li>Técnica puzzle aplicada: una persona del equipo investiga el cilindro S/E, otra el D/E, se explican mutuamente y luego integran el conocimiento en el diseño del proyecto común.</li>\n<li>Heterogeneidad planificada por el/la docente: equilibrio de género, nivel competencial y estilos de aprendizaje, con especial atención a la reducción de la brecha de genero en STEM.</li>\n</ul>\n<p><strong>3. Gamificación</strong><br />Se implementa un sistema de niveles de ingeniero/a (Aprendiz, Junior, Senior, Experto/a) que el alumnado va superando al completar hitos clave de la situación de aprendizaje. Un ranking cooperativo de equipos motiva la participación activa sin fomentar competitividad negativa, ya que los puntos se ganan por calidad del trabajo y colaboración, no por velocidad.<br /></p>\n<p><strong>Insignias digitales desbloqueables:</strong></p>\n<ul>\n<li>Maestro/a de la presión: Resolver correctamente 5 ejercicios de cálculo de presión, fuerza y caudal.</li>\n<li>Detective de circuitos: Analizar y explicar correctamente un circuito neumático dado aplicando el protocolo de tres pasos.</li>\n<li>Técnico/a de seguridad: Diseñar un circuito con válvula AND o antirretorno correctamente justificada.</li>\n<li>Ingeniero/a Picuino: Conseguir una simulación completamente funcional en Picuino.</li>\n<li>Embajador/a sostenible: Incluir una valoración de sostenibilidad fundamentada con datos reales en la memoria técnica.</li>\n<li>Comunicador/a técnico/a: Obtener una puntuación de 3 o superior en la rúbrica de exposición oral del comité TecnoFluid.</li>\n</ul>\n<p><strong>4. Flipped Classroom (Aula invertida)</strong><br /></p>\n<p>Antes de las sesiones 1, 2 y 3, el alumnado visiona en casa videos cortos de 10-15 minutos sobre los contenidos teóricos (historia de la hidráulica, principios físicos, elementos del circuito). El tiempo de clase se dedica integra a actividades prácticas, resolución de problemas, simulación y trabajo cooperativo.</p>\n<ul>\n<li>Videos preparados en Edpuzzle con preguntas intercaladas: el docente puede verificar la comprensión previa antes de llegar al aula y detectar conceptos que necesitan refuerzo.</li>\n<li>Permite personalizar el ritmo: el alumnado que necesita más tiempo puede revisar el video las veces que sea necesario; quien tiene mayor nivel puede acceder a materiales de ampliación.<br /></li>\n</ul>\n<p><strong>5. Learning by Doing (Aprender haciendo)</strong><br /></p>\n<p>La metodología se fundamenta en la experimentación directa: el alumnado no solo lee sobre neumática, sino que manipula símbolos en Picuino, conecta componentes virtuales, observa como el fluido circula, detecta por que el cilindro no avanza y lo corrige. El error forma parte del aprendizaje y se documenta como evidencia de progreso.</p>\n<ul>\n<li>Actividad manipulativa con jeringas: el alumnado comprime aire y mide presión y volumen reales, vivenciando la ley de Boyle-Mariotte antes de formalizarla matemáticamente.</li>\n<li>Juego de tarjetas de simbología: emparejamiento físico o digital de símbolo, nombre y función, con el cuerpo activo en el proceso de aprendizaje.</li>\n<li>Taller Picuino: el ciclo diseño-simulación-error-corrección convierte el aprendizaje técnico en una experiencia de ingeniería real. Los errores de conexión, los cortocircuitos de fluido y los fallos lógicos son oportunidades de aprendizaje, no fracasos.<br /></li>\n</ul>\n<p><strong>6. Rutinas de pensamiento visible</strong></p>\n<p>Se incorporan rutinas de pensamiento visible a lo largo de toda la situación de aprendizaje para hacer explícito el razonamiento técnico del alumnado y organizarlo de forma progresiva. Estas rutinas ayudan a conectar los nuevos aprendizajes con los conocimientos previos y a evaluar el cambio conceptual. De este modo, se trabajan rutinas como \"Veo-Pienso-Me pregunto\" al observar componentes, \"Compara y contrasta\" entre los distintos tipos de circuitos neumáticos e hidráulicos, y \"Antes pensaba... Ahora pienso\". Estas rutinas hacen explícito el razonamiento y ayudan a organizar el pensamiento.</p>\n<p><strong>7. Evaluación formativa continua</strong></p>\n<p>La evaluación no es solo un instrumento de calificación final, sino una herramienta de aprendizaje integrada en cada sesión. El docente ajusta el ritmo de la situación de aprendizaje en función de los resultados de la evaluación formativa continua.</p>\n<ul>\n<li>Dianas de autoevaluación al inicio y al final de la situación de aprendizaje: permiten al alumnado ver su propio progreso de forma visual.</li>\n<li>Rúbricas compartidas desde el inicio de la situación de aprendizaje: el alumnado conoce exactamente los criterios de evaluación de cada producto antes de empezar a elaborarlo, lo que convierte la rúbrica en guía de aprendizaje.</li>\n<li>Cada equipo revisa el circuito de otro equipo aplicando una lista de cotejo técnico. La retroalimentación entre iguales es a menudo más efectiva que la del docente.</li>\n<li>Kahoot/Quizizz al final de algunas sesiones: evaluación gamificada inmediata que permite al docente detectar conceptos no consolidados y reajustar el inicio de la sesión siguiente.</li>\n<li>Portfolio-diario semanal (Cuaderno del Ingeniero/a): el docente revisa y hace anotaciones de retroalimentación al final de cada semana, creando un diálogo formativo continuo.</li>\n</ul>\n<p><strong>8. Diseño Universal para el Aprendizaje (DUA)</strong><br />Para garantizar inclusión:<strong> múltiples formas de representación </strong>(vídeos, infografías, manipulación física, simulaciones), múltiples formas de expresión (presentaciones, informes, videos, ejercicios, infografía, expresión oral, podcast o breakout) y múltiples formas de implicación (diferentes niveles de dificultad, reto gamificado, roles adaptados a fortalezas, conexión con industria asturiana).</p>\n<p>Estas metodologías transforman el aula en un espacio de investigación y experimentación, donde el alumnado desarrolla saberes técnicos y competencias transversales esenciales para el siglo XXI.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny6-czf3cotsl</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny6-czf3cotsl</odePageId>
+      <odeBlockId>20260325165351SVOZCQ</odeBlockId>
+      <blockName>PLANES Y PROGRAMAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny6-czf3cotsl</odePageId>
+          <odeBlockId>20260325165351SVOZCQ</odeBlockId>
+          <odeIdeviceId>202511111914292792X4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula con los siguientes planes y programas institucionales de la Circular de inicio de curso 2025-2026 del Principado de Asturias. Esta vinculación refuerza la coherencia pedagógica de la situación de aprendizaje, integrándola en el Proyecto Educativo de Centro y contribuyendo a los objetivos estratégicos del sistema educativo asturiano.</p>
+<p><strong>1. Programa #CompDigEdu (Competencia Digital Educativa)</strong></p>
+<p>Conexión directa: el estudio de la neumática e hidráulica desde una perspectiva técnica, crítica y simulada desarrolla la competencia digital del alumnado en niveles superiores del Marco Europeo DigComp. El uso de Picuino como herramienta de diseño y verificación de circuitos contribuye directamente a las cinco áreas competenciales:</p>
+<ul>
+<li>Alfabetización informacional: búsqueda y evaluación de fuentes técnicas sobre componentes neumáticos (catálogos Festo, SMC, normas ISO).</li>
+<li>Comunicación y colaboración: trabajo cooperativo con herramientas digitales compartidas (OneDrive, Teams, Padlet).</li>
+<li>Creación de contenidos digitales: infografía (Canva), vídeo, podcast o breakout educativo sobre sistemas neumáticos e hidráulicos.</li>
+<li>Seguridad: uso responsable y ético de herramientas digitales; protección de datos y licencias Creative Commons.</li>
+<li>Resolución de problemas: el ciclo diseño-simulación-error-corrección en Picuino es la aplicación más directa de resolución de problemas con tecnología digital.</li>
+</ul>
+<p><strong>2. Programa VUELA (Educación Inclusiva)</strong><br /></p>
+<p>La metodología basada en el Diseño Universal para el Aprendizaje (DUA) conecta directamente con los principios del programa VUELA. La situación de aprendizaje garantiza la participación, el aprendizaje y la evaluación en condiciones de equidad para todo el alumnado, incluido aquel con necesidades educativas especiales:</p>
+<ul>
+<li>Múltiples formas de representación: texto (dossier Pelandintecno), vídeo (Edpuzzle), simulación interactiva (Picuino), tarjetas físicas de simbología y material manipulativo (jeringas).</li>
+<li>Múltiples formas de expresión: resolución escrita de problemas, simulación digital, exposición oral, infografía visual, vídeo o podcast; cada estudiante puede demostrar lo aprendido en el formato que mejor se adapte a sus capacidades.</li>
+<li>Múltiples formas de implicación: gamificación con niveles graduados, elección libre de la aplicación industrial, roles adaptados a las fortalezas de cada estudiante y agrupamientos flexibles.</li>
+<li>Medidas específicas para NEE: fichas-guía paso a paso, simbología ampliada, presentaciones en formato alternativo y apoyo entre iguales mediante aprendizaje cooperativo.</li>
+</ul>
+<p><strong>3. Plan de Coeducación (Igualdad de género en STEM)</strong><br /></p>
+<p>La situación de aprendizaje adopta un enfoque activamente coeducativo que combate los estereotipos de género en ingeniería y tecnología, contribuyendo a reducir la brecha de género en vocaciones STEM:</p>
+<ul>
+<li>Referentes femeninos: se presentan ingenieras de automatización y neumática industrial como modelos de referencia, desmitificando la percepción del sector como exclusivamente masculino.</li>
+<li>Lenguaje inclusivo y no sexista: exigido en todos los productos (memoria técnica, infografía, exposición oral, vídeo/podcast), incorporando el uso del genérico inclusivo como criterio de evaluación.</li>
+<li>Agrupamientos heterogéneos planificados por el/la docente con equilibrio de género, garantizando que las alumnas participen en igualdad de condiciones en los roles técnicos del equipo.</li>
+<li>Reflexión crítica sobre la masculinización histórica de la ingeniería de automatización y el impacto de los sesgos de género en el diseño tecnológico industrial.</li>
+</ul>
+<p><strong>4. Sello de Vida Saludable (Salud y sostenibilidad)</strong><br /></p>
+<p>La situación de aprendizaje aborda la dimensión de salud laboral e industrial y de sostenibilidad ambiental, conectando con los objetivos del Sello de Vida Saludable:</p>
+<ul>
+<li>Salud y seguridad laboral en entornos industriales: las normas de seguridad en sistemas neumáticos (sobrepresiones, válvulas de seguridad, equipos de protección) forman parte de los contenidos técnicos de la situación de aprendizaje.</li>
+<li>Impacto ambiental y sostenibilidad: el debate sobre la gestión del aceite hidráulico como residuo peligroso, el consumo energético de los compresores y la economía circular en la industria conectan con la educación ambiental y el consumo responsable.</li>
+<li>Bienestar en el aula: la metodología activa y cooperativa, con diversidad de actividades y evitando el sedentarismo cognitivo, favorece el bienestar físico y mental del alumnado durante las sesiones.</li>
+<li>ODS 3 (Salud y bienestar) y ODS 12 (Producción responsable): la sección de sostenibilidad de la memoria técnica es la evidencia directa de este compromiso.</li>
+</ul>
+<p><strong>5. Plan Integral de Convivencia</strong><br /></p>
+<p>La metodología cooperativa que vertebra la situación de aprendizaje favorece el desarrollo de habilidades sociales y contribuye directamente a los objetivos del Plan Integral de Convivencia:</p>
+<ul>
+<li>Respeto mutuo y escucha activa: la toma de decisiones técnicas en equipo (qué componentes incluir, qué aplicación industrial elegir, cómo diseñar el circuito) exige escuchar y valorar las aportaciones de cada miembro.</li>
+<li>Resolución pacífica de conflictos: la revisión cruzada entre equipos y la coevaluación de la exposición oral entrenan la comunicación asertiva del desacuerdo técnico.</li>
+<li>Corresponsabilidad: los roles rotativos semanales garantizan que cada estudiante asume tanto la responsabilidad técnica como la organizativa del equipo, desarrollando equidad y corresponsabilidad.</li>
+<li>Cultura de la mejora: la evaluación formativa con feedback positivo y el sistema de insignias por logros específicos fomentan una cultura del esfuerzo y la superación, no de la comparación.</li>
+</ul>
+<p><strong>6. Proyectos de Innovación Pedagógica</strong><br /></p>
+<p>Esta situación de aprendizaje constituye en sí misma un proyecto de innovación pedagógica al incorporar un conjunto coherente de metodologías activas, tecnologías educativas emergentes y conexión con los retos globales del siglo XXI:</p>
+<ul>
+<li>Metodologías activas: ABP, gamificación, flipped classroom, learning by doing, rutinas de pensamiento visible y aprendizaje cooperativo con roles profesionales reales.</li>
+<li>Tecnología educativa: Picuino (simulador de circuitos), Edpuzzle (vídeos interactivos), Kahoot/Quizizz (evaluación gamificada), Canva (diseño gráfico) y Genially (breakout educativo).</li>
+<li>Conexión con la Agenda 2030: los ODS 4, 5, 9, 12 y 13 están integrados como criterios de diseño y evaluación, no como contenido adicional, convirtiendo la sostenibilidad en un eje transversal real.</li>
+<li>Conexión con la industria asturiana: el reto TecnoFluid S.A. y las referencias al sector industrial de Asturias anclan los aprendizajes en el contexto productivo y laboral del entorno del alumnado.</li>
+</ul>
+<p><strong>7. Programa de Bienestar Emocional</strong><br /></p>
+<p>El enfoque metodológico de la situación de aprendizaje cuida explícitamente el bienestar emocional del alumnado, conectando con los objetivos del Programa de Bienestar Emocional:</p>
+<ul>
+<li>Autoconfianza y autoeficacia: el sistema de insignias desbloqueables celebra logros específicos y graduales (Maestro/a de la presión, Detective de circuitos, Ingeniero/a Picuino...), reforzando la percepción de competencia técnica sin comparar entre estudiantes.</li>
+<li>Motivación intrínseca: el reto contextualizado (diseñar para una empresa real), la elección libre de la aplicación industrial y la variedad de formatos para la generación de documentos conectan con los intereses personales del alumnado, generando motivación genuina.</li>
+<li>Gestión del error como aprendizaje: el ciclo iterativo diseño-simulación-error-corrección normaliza el error como parte del proceso creativo, reduciendo la ansiedad ante el fallo y fomentando la resiliencia.</li>
+<li>Clima de aula positivo: la gamificación cooperativa (puntos por colaboración, no por competición), los roles rotativos que evitan jerarquías fijas y el feedback formativo positivo contribuyen a un clima de confianza y respeto mutuo.</li>
+<li>Rutina de cierre: 'Lo que he aprendido' y la celebración del equipo ganador son momentos de reconocimiento emocional del esfuerzo colectivo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511111914292792X4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se vincula con los siguientes planes y programas institucionales de la Circular de inicio de curso 2025-2026 del Principado de Asturias. Esta vinculación refuerza la coherencia pedagógica de la situación de aprendizaje, integrándola en el Proyecto Educativo de Centro y contribuyendo a los objetivos estratégicos del sistema educativo asturiano.</p>\n<p><strong>1. Programa #CompDigEdu (Competencia Digital Educativa)</strong></p>\n<p>Conexión directa: el estudio de la neumática e hidráulica desde una perspectiva técnica, crítica y simulada desarrolla la competencia digital del alumnado en niveles superiores del Marco Europeo DigComp. El uso de Picuino como herramienta de diseño y verificación de circuitos contribuye directamente a las cinco áreas competenciales:</p>\n<ul>\n<li>Alfabetización informacional: búsqueda y evaluación de fuentes técnicas sobre componentes neumáticos (catálogos Festo, SMC, normas ISO).</li>\n<li>Comunicación y colaboración: trabajo cooperativo con herramientas digitales compartidas (OneDrive, Teams, Padlet).</li>\n<li>Creación de contenidos digitales: infografía (Canva), vídeo, podcast o breakout educativo sobre sistemas neumáticos e hidráulicos.</li>\n<li>Seguridad: uso responsable y ético de herramientas digitales; protección de datos y licencias Creative Commons.</li>\n<li>Resolución de problemas: el ciclo diseño-simulación-error-corrección en Picuino es la aplicación más directa de resolución de problemas con tecnología digital.</li>\n</ul>\n<p><strong>2. Programa VUELA (Educación Inclusiva)</strong><br /></p>\n<p>La metodología basada en el Diseño Universal para el Aprendizaje (DUA) conecta directamente con los principios del programa VUELA. La situación de aprendizaje garantiza la participación, el aprendizaje y la evaluación en condiciones de equidad para todo el alumnado, incluido aquel con necesidades educativas especiales:</p>\n<ul>\n<li>Múltiples formas de representación: texto (dossier Pelandintecno), vídeo (Edpuzzle), simulación interactiva (Picuino), tarjetas físicas de simbología y material manipulativo (jeringas).</li>\n<li>Múltiples formas de expresión: resolución escrita de problemas, simulación digital, exposición oral, infografía visual, vídeo o podcast; cada estudiante puede demostrar lo aprendido en el formato que mejor se adapte a sus capacidades.</li>\n<li>Múltiples formas de implicación: gamificación con niveles graduados, elección libre de la aplicación industrial, roles adaptados a las fortalezas de cada estudiante y agrupamientos flexibles.</li>\n<li>Medidas específicas para NEE: fichas-guía paso a paso, simbología ampliada, presentaciones en formato alternativo y apoyo entre iguales mediante aprendizaje cooperativo.</li>\n</ul>\n<p><strong>3. Plan de Coeducación (Igualdad de género en STEM)</strong><br /></p>\n<p>La situación de aprendizaje adopta un enfoque activamente coeducativo que combate los estereotipos de género en ingeniería y tecnología, contribuyendo a reducir la brecha de género en vocaciones STEM:</p>\n<ul>\n<li>Referentes femeninos: se presentan ingenieras de automatización y neumática industrial como modelos de referencia, desmitificando la percepción del sector como exclusivamente masculino.</li>\n<li>Lenguaje inclusivo y no sexista: exigido en todos los productos (memoria técnica, infografía, exposición oral, vídeo/podcast), incorporando el uso del genérico inclusivo como criterio de evaluación.</li>\n<li>Agrupamientos heterogéneos planificados por el/la docente con equilibrio de género, garantizando que las alumnas participen en igualdad de condiciones en los roles técnicos del equipo.</li>\n<li>Reflexión crítica sobre la masculinización histórica de la ingeniería de automatización y el impacto de los sesgos de género en el diseño tecnológico industrial.</li>\n</ul>\n<p><strong>4. Sello de Vida Saludable (Salud y sostenibilidad)</strong><br /></p>\n<p>La situación de aprendizaje aborda la dimensión de salud laboral e industrial y de sostenibilidad ambiental, conectando con los objetivos del Sello de Vida Saludable:</p>\n<ul>\n<li>Salud y seguridad laboral en entornos industriales: las normas de seguridad en sistemas neumáticos (sobrepresiones, válvulas de seguridad, equipos de protección) forman parte de los contenidos técnicos de la situación de aprendizaje.</li>\n<li>Impacto ambiental y sostenibilidad: el debate sobre la gestión del aceite hidráulico como residuo peligroso, el consumo energético de los compresores y la economía circular en la industria conectan con la educación ambiental y el consumo responsable.</li>\n<li>Bienestar en el aula: la metodología activa y cooperativa, con diversidad de actividades y evitando el sedentarismo cognitivo, favorece el bienestar físico y mental del alumnado durante las sesiones.</li>\n<li>ODS 3 (Salud y bienestar) y ODS 12 (Producción responsable): la sección de sostenibilidad de la memoria técnica es la evidencia directa de este compromiso.</li>\n</ul>\n<p><strong>5. Plan Integral de Convivencia</strong><br /></p>\n<p>La metodología cooperativa que vertebra la situación de aprendizaje favorece el desarrollo de habilidades sociales y contribuye directamente a los objetivos del Plan Integral de Convivencia:</p>\n<ul>\n<li>Respeto mutuo y escucha activa: la toma de decisiones técnicas en equipo (qué componentes incluir, qué aplicación industrial elegir, cómo diseñar el circuito) exige escuchar y valorar las aportaciones de cada miembro.</li>\n<li>Resolución pacífica de conflictos: la revisión cruzada entre equipos y la coevaluación de la exposición oral entrenan la comunicación asertiva del desacuerdo técnico.</li>\n<li>Corresponsabilidad: los roles rotativos semanales garantizan que cada estudiante asume tanto la responsabilidad técnica como la organizativa del equipo, desarrollando equidad y corresponsabilidad.</li>\n<li>Cultura de la mejora: la evaluación formativa con feedback positivo y el sistema de insignias por logros específicos fomentan una cultura del esfuerzo y la superación, no de la comparación.</li>\n</ul>\n<p><strong>6. Proyectos de Innovación Pedagógica</strong><br /></p>\n<p>Esta situación de aprendizaje constituye en sí misma un proyecto de innovación pedagógica al incorporar un conjunto coherente de metodologías activas, tecnologías educativas emergentes y conexión con los retos globales del siglo XXI:</p>\n<ul>\n<li>Metodologías activas: ABP, gamificación, flipped classroom, learning by doing, rutinas de pensamiento visible y aprendizaje cooperativo con roles profesionales reales.</li>\n<li>Tecnología educativa: Picuino (simulador de circuitos), Edpuzzle (vídeos interactivos), Kahoot/Quizizz (evaluación gamificada), Canva (diseño gráfico) y Genially (breakout educativo).</li>\n<li>Conexión con la Agenda 2030: los ODS 4, 5, 9, 12 y 13 están integrados como criterios de diseño y evaluación, no como contenido adicional, convirtiendo la sostenibilidad en un eje transversal real.</li>\n<li>Conexión con la industria asturiana: el reto TecnoFluid S.A. y las referencias al sector industrial de Asturias anclan los aprendizajes en el contexto productivo y laboral del entorno del alumnado.</li>\n</ul>\n<p><strong>7. Programa de Bienestar Emocional</strong><br /></p>\n<p>El enfoque metodológico de la situación de aprendizaje cuida explícitamente el bienestar emocional del alumnado, conectando con los objetivos del Programa de Bienestar Emocional:</p>\n<ul>\n<li>Autoconfianza y autoeficacia: el sistema de insignias desbloqueables celebra logros específicos y graduales (Maestro/a de la presión, Detective de circuitos, Ingeniero/a Picuino...), reforzando la percepción de competencia técnica sin comparar entre estudiantes.</li>\n<li>Motivación intrínseca: el reto contextualizado (diseñar para una empresa real), la elección libre de la aplicación industrial y la variedad de formatos para la generación de documentos conectan con los intereses personales del alumnado, generando motivación genuina.</li>\n<li>Gestión del error como aprendizaje: el ciclo iterativo diseño-simulación-error-corrección normaliza el error como parte del proceso creativo, reduciendo la ansiedad ante el fallo y fomentando la resiliencia.</li>\n<li>Clima de aula positivo: la gamificación cooperativa (puntos por colaboración, no por competición), los roles rotativos que evitan jerarquías fijas y el feedback formativo positivo contribuyen a un clima de confianza y respeto mutuo.</li>\n<li>Rutina de cierre: 'Lo que he aprendido' y la celebración del equipo ganador son momentos de reconocimiento emocional del esfuerzo colectivo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny7-nz6hddx9s</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny7-nz6hddx9s</odePageId>
+      <odeBlockId>20260325165351ZTNXKX</odeBlockId>
+      <blockName>ACTVIDADES COMPLEMETARIAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny7-nz6hddx9s</odePageId>
+          <odeBlockId>20260325165351ZTNXKX</odeBlockId>
+          <odeIdeviceId>202511111926190618ZB</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para enriquecer la situación de aprendizaje y conectar los contenidos del aula con experiencias reales del mundo de la automatización industrial y la tecnología asturiana, se proponen las siguientes actividades complementarias. Todas ellas refuerzan el aprendizaje experiencial, conectan el aula con el mundo real y fomentan vocaciones tecnológicas, especialmente entre las alumnas.</p>
+<p><strong>1. Visita a Laboral Ciudad de la Cultura - Gijón</strong><br /></p>
+<p>Laboral Ciudad de la Cultura presenta una variada programación didáctica con talleres de ciencia y tecnología adaptados para todos los ciclos educativos. Sus instalaciones en Gijón la convierten en un recurso accesible para todos los centros educativos asturianos.</p>
+<p><strong>Conexión con la situación de aprendizaje:</strong></p>
+<p>Laboral ofrece talleres tecnológicos interactivos donde el alumnado puede experimentar con tecnología de forma práctica. Sus exposiciones sobre automatización industrial, cultura digital y talleres STEAM complementan perfectamente el conocimiento técnico de la neumática e hidráulica con la dimensión social, creativa e histórica de la tecnología.</p>
+<p><strong>Actividades didácticas propuestas:</strong></p>
+<ul>
+<li>Talleres interactivos sobre tecnología, automatización, programación y competencia digital adaptados a 4º ESO.</li>
+<li>Visita a exposiciones temporales relacionadas con innovación tecnológica, industria 4.0 y sistemas de control.</li>
+<li>Conexión directa con el Bloque B de la situación de aprendizaje: identificar en contexto real los sistemas neumáticos e hidráulicos presentes en las instalaciones industriales expuestas.</li>
+</ul>
+<p><strong>2. Charla/Taller con Eurotacma - Gijón</strong><br /></p>
+<p>Eurotacma S.L. es una empresa asturiana especializada en la distribución y el servicio técnico de componentes neumáticos e hidráulicos industriales. Con décadas de experiencia en el sector, trabaja con los principales fabricantes del mercado (Festo, SMC, Parker, Bosch Rexroth) y ofrece soluciones de automatización a empresas de toda Asturias.</p>
+<p><strong>Conexión con la situación de aprendizaje:</strong></p>
+<p>Eurotacma puede organizar charlas técnicas o talleres prácticos para centros educativos que conectan directamente con los contenidos de la situación de aprendizaje: los componentes reales que el alumnado ha estudiado en clase —cilindros, válvulas, compresores, racores— son exactamente los que Eurotacma distribuye e instala en la industria asturiana.</p>
+<p><strong>Temáticas propuestas para la charla o taller:</strong></p>
+<ul>
+<li>Demostración en directo con componentes neumáticos reales: el alumnado puede manipular cilindros, válvulas 3/2 y 5/2 y compresores de los mismos fabricantes que aparecen en el dossier Pelandintecno.</li>
+<li>Recorrido profesional en el sector: técnico/a de automatización, ingeniero/a de ventas de componentes industriales, especialista en mantenimiento neumático. Itinerarios formativos desde FP hasta ingeniería.</li>
+<li>Sostenibilidad en neumática: eficiencia energética de los compresores modernos, recuperación del calor residual, sistemas de ahorro de aire y gestión de residuos de aceite hidráulico en la industria asturiana.</li>
+<li>Industria 4.0 y neumática inteligente: electroválvulas con control digital, sensores de posición integrados en cilindros y conectividad IoT en sistemas neumáticos modernos.</li>
+</ul>
+<p><strong>3. Difusión en el centro: Feria de Tecnología</strong></p>
+<p>Los productos finales de la situación de aprendizaje (circuito simulado, infografía y recurso educativo creativo) tienen un valor divulgativo que va más allá del aula. Se propone organizar una pequeña Feria de Tecnología en el centro donde los equipos expongan sus proyectos ante otros grupos, las familias o el claustro.</p>
+<p><strong>Propuesta de organización:</strong></p>
+<ul>
+<li>Exposición de infografías en los pasillos del centro como material divulgativo permanente sobre neumática e hidráulica.</li>
+<li>Presentación del circuito simulado en Picuino ante alumnado de otros cursos: ¿cómo funciona la puerta automática de un autobús? ¿Cómo se aplastan las latas para reciclarlas?</li>
+<li>Proyección o audición del vídeo o podcast en el espacio común del centro, convirtiéndolo en recurso educativo real para otros grupos.</li>
+<li>Juego del breakout educativo con alumnado de otros cursos: actividad de gamificación intercentro.</li>
+</ul>
+<p>Todas estas actividades refuerzan el aprendizaje experiencial, conectan el aula con el mundo real y fomentan vocaciones tecnológicas, especialmente entre las alumnas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202511111926190618ZB","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para enriquecer la situación de aprendizaje y conectar los contenidos del aula con experiencias reales del mundo de la automatización industrial y la tecnología asturiana, se proponen las siguientes actividades complementarias. Todas ellas refuerzan el aprendizaje experiencial, conectan el aula con el mundo real y fomentan vocaciones tecnológicas, especialmente entre las alumnas.</p>\n<p><strong>1. Visita a Laboral Ciudad de la Cultura - Gijón</strong><br /></p>\n<p>Laboral Ciudad de la Cultura presenta una variada programación didáctica con talleres de ciencia y tecnología adaptados para todos los ciclos educativos. Sus instalaciones en Gijón la convierten en un recurso accesible para todos los centros educativos asturianos.</p>\n<p><strong>Conexión con la situación de aprendizaje:</strong></p>\n<p>Laboral ofrece talleres tecnológicos interactivos donde el alumnado puede experimentar con tecnología de forma práctica. Sus exposiciones sobre automatización industrial, cultura digital y talleres STEAM complementan perfectamente el conocimiento técnico de la neumática e hidráulica con la dimensión social, creativa e histórica de la tecnología.</p>\n<p><strong>Actividades didácticas propuestas:</strong></p>\n<ul>\n<li>Talleres interactivos sobre tecnología, automatización, programación y competencia digital adaptados a 4º ESO.</li>\n<li>Visita a exposiciones temporales relacionadas con innovación tecnológica, industria 4.0 y sistemas de control.</li>\n<li>Conexión directa con el Bloque B de la situación de aprendizaje: identificar en contexto real los sistemas neumáticos e hidráulicos presentes en las instalaciones industriales expuestas.</li>\n</ul>\n<p><strong>2. Charla/Taller con Eurotacma - Gijón</strong><br /></p>\n<p>Eurotacma S.L. es una empresa asturiana especializada en la distribución y el servicio técnico de componentes neumáticos e hidráulicos industriales. Con décadas de experiencia en el sector, trabaja con los principales fabricantes del mercado (Festo, SMC, Parker, Bosch Rexroth) y ofrece soluciones de automatización a empresas de toda Asturias.</p>\n<p><strong>Conexión con la situación de aprendizaje:</strong></p>\n<p>Eurotacma puede organizar charlas técnicas o talleres prácticos para centros educativos que conectan directamente con los contenidos de la situación de aprendizaje: los componentes reales que el alumnado ha estudiado en clase —cilindros, válvulas, compresores, racores— son exactamente los que Eurotacma distribuye e instala en la industria asturiana.</p>\n<p><strong>Temáticas propuestas para la charla o taller:</strong></p>\n<ul>\n<li>Demostración en directo con componentes neumáticos reales: el alumnado puede manipular cilindros, válvulas 3/2 y 5/2 y compresores de los mismos fabricantes que aparecen en el dossier Pelandintecno.</li>\n<li>Recorrido profesional en el sector: técnico/a de automatización, ingeniero/a de ventas de componentes industriales, especialista en mantenimiento neumático. Itinerarios formativos desde FP hasta ingeniería.</li>\n<li>Sostenibilidad en neumática: eficiencia energética de los compresores modernos, recuperación del calor residual, sistemas de ahorro de aire y gestión de residuos de aceite hidráulico en la industria asturiana.</li>\n<li>Industria 4.0 y neumática inteligente: electroválvulas con control digital, sensores de posición integrados en cilindros y conectividad IoT en sistemas neumáticos modernos.</li>\n</ul>\n<p><strong>3. Difusión en el centro: Feria de Tecnología</strong></p>\n<p>Los productos finales de la situación de aprendizaje (circuito simulado, infografía y recurso educativo creativo) tienen un valor divulgativo que va más allá del aula. Se propone organizar una pequeña Feria de Tecnología en el centro donde los equipos expongan sus proyectos ante otros grupos, las familias o el claustro.</p>\n<p><strong>Propuesta de organización:</strong></p>\n<ul>\n<li>Exposición de infografías en los pasillos del centro como material divulgativo permanente sobre neumática e hidráulica.</li>\n<li>Presentación del circuito simulado en Picuino ante alumnado de otros cursos: ¿cómo funciona la puerta automática de un autobús? ¿Cómo se aplastan las latas para reciclarlas?</li>\n<li>Proyección o audición del vídeo o podcast en el espacio común del centro, convirtiéndolo en recurso educativo real para otros grupos.</li>\n<li>Juego del breakout educativo con alumnado de otros cursos: actividad de gamificación intercentro.</li>\n</ul>\n<p>Todas estas actividades refuerzan el aprendizaje experiencial, conectan el aula con el mundo real y fomentan vocaciones tecnológicas, especialmente entre las alumnas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnj1fny8-wdq6jmqxj</odePageId>
+  <odeParentPageId>page-mnj1fnxv-9xzdb5ker</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnj1fny8-wdq6jmqxj</odePageId>
+      <odeBlockId>20260325165351XEPGYS</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnj1fny8-wdq6jmqxj</odePageId>
+          <odeBlockId>20260325165351XEPGYS</odeBlockId>
+          <odeIdeviceId>202511111953358507TT</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Operación rescate. ¿Qué le pasa a mi ordenador?</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Situación de aprendizaje sobre dispositivos digitales: componentes, características y resolución de problemas de manera <span style="font-size: inherit;">guiada</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Beatriz Gasch Carcedo</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#4d619d;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
